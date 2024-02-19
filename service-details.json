@@ -1,15 +1,26 @@
 {
     "date": "2/25/2024",
-    "openingScripture": "",
-    "callToWorship": "",
-    "fellowshipSong": "",
-    "songOfExultation:": "",
-    "responsiveReadingQuestion": "NCC Q23",
-    "responsiveReadingReference": "",
-    "songOfAdoration": "",
-    "sermonTitle": "",
-    "sermonText": "",
-    "songOfResponse": "",
-    "benediction": "",
-    "note": "Chili Cook-Off fellowship meal to follow the morning service."
+    "details": {
+        "openingScripture": "Psalm 126",
+        "callToWorship": "n/a",
+        "fellowshipSong": "n/a",
+        "songOfExultation:": "n/a",
+        "responsiveReadingQuestion": "NCC Q23",
+        "responsiveReadingReference": "Acts 2:22-24",
+        "songOfAdoration": "n/a",
+        "specialMusic": {
+            "isEmpty": "yes",
+            "provider": "",
+            "title": ""
+            },
+        "sermonTitle": "n/a",
+        "sermonText": "Luke 14:25-**",
+        "songOfResponse": "n/a",
+        "theLordsSupper": 0,
+        "benediction": "2 Thessalonians 2:16-17",
+        "note": {
+            "isEmpty": "no",
+            "text": "Chili Cook-Off fellowship meal to follow the morning service."
+        }
+    }
 }
