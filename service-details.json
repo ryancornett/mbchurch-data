@@ -18,9 +18,12 @@
         "songOfResponse": "n/a",
         "theLordsSupper": 0,
         "benediction": "2 Thessalonians 2:16-17",
-        "note": {
+        "announcements": {
             "isEmpty": "no",
-            "text": "Chili Cook-Off fellowship meal to follow the morning service."
+            "list": [
+                "Chili Cook-Off fellowship meal to follow the morning service.",
+                "This year's VBS, the Great Jungle Journey is June 16-19."
+            ]
         }
     }
 }
