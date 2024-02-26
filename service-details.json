@@ -1,27 +1,28 @@
 {
-    "date": "2/25/2024",
+    "date": "3/3/2024",
     "details": {
-        "openingScripture": "Psalm 126",
-        "callToWorship": "Sweet, Sweet Spirit #243",
-        "fellowshipSong": "In the Garden #187",
-        "songOfExultation": "Higher Ground #484",
-        "responsiveReadingQuestion": "NCC Q23",
-        "responsiveReadingReference": "Acts 2:22-24",
-        "songOfAdoration": "In Christ Alone",
+        "openingScripture": "Psalm 127",
+        "callToWorship": "Soon and Very Soon #192",
+        "fellowshipSong": "At the Cross #139",
+        "songOfExultation": "How Great Thou Art #010",
+        "responsiveReadingQuestion": "NCC Q24",
+        "responsiveReadingReference": "Colossians 1:21-22",
+        "songOfAdoration": "How Deep the Father's Love for Us",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "",
             "title": ""
             },
-        "sermonTitle": "The Cost of Discipleship",
-        "sermonText": "Luke 14:25-35",
-        "songOfResponse": "The Old Rugged Cross #141 ",
-        "theLordsSupper": 0,
-        "benediction": "2 Thessalonians 2:16-17",
+        "sermonTitle": "not yet announced",
+        "sermonText": "Luke 15:1-?",
+        "songOfResponse": "Just a Closer Walk with Thee #448",
+        "theLordsSupper": 1,
+        "benediction": "Romans 15:5-7",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Chili Cook-Off fellowship meal to follow the morning service.",
+                "Visitation & evangelism – Tuesday, March 5 at 6:00 PM.",
+                "Men’s meeting – Saturday, March 9 at 8:00 AM; breakfast will be provided.",
                 "This year's VBS, the Great Jungle Journey, is June 16-19."
             ]
         }
