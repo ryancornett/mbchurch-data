@@ -1,29 +1,28 @@
 {
-    "date": "3/10/2024",
+    "date": "3/17/2024",
     "details": {
-        "openingScripture": "Psalm 128",
-        "callToWorship": "Seek Ye First #478",
-        "fellowshipSong": "Send the Light #595",
-        "songOfExultation": "It Is Well with My Soul #410",
-        "responsiveReadingQuestion": "NCC Q25",
-        "responsiveReadingReference": "Isaiah 55:6-7",
-        "songOfAdoration": "Victory in Jesus #426",
+        "openingScripture": "Psalm 129",
+        "callToWorship": "Come Thou Fount #015",
+        "fellowshipSong": "There Is a Fountain #142",
+        "songOfExultation": "Bless the Lord, O My Soul",
+        "responsiveReadingQuestion": "NCC Q26",
+        "responsiveReadingReference": "Colossians 1:19–20",
+        "songOfAdoration": "His Mercy Is More",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "",
             "title": ""
             },
         "sermonTitle": "not yey announced",
-        "sermonText": "Luke 15:1-??",
-        "songOfResponse": "I Surrender All #275",
+        "sermonText": "Luke 16:1-??",
+        "songOfResponse": "Only Trust Him #317 ",
         "theLordsSupper": 0,
-        "benediction": "2 Corinthians 13:14",
+        "benediction": "Numbers 6:24-26",
         "announcements": {
             "isEmpty": "no",
             "list": [
                 "Visitation & evangelism – Tuesday, March 19 at 6:00 PM.",
                 "Men’s meeting – Saturday, March 23 at 8:00 AM; breakfast will be provided.",
-                "Women on Mission – Monday, March 11 at 6:00 PM in the Fellowship Hall.",
                 "This year's VBS, the Great Jungle Journey, is June 16-19."
             ]
         }
