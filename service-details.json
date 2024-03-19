@@ -1,21 +1,21 @@
 {
-    "date": "3/17/2024",
+    "date": "3/24/2024",
     "details": {
-        "openingScripture": "Psalm 129",
-        "callToWorship": "Come Thou Fount #015",
-        "fellowshipSong": "There Is a Fountain #142",
-        "songOfExultation": "Bless the Lord, O My Soul",
-        "responsiveReadingQuestion": "NCC Q26",
-        "responsiveReadingReference": "Colossians 1:19–20",
-        "songOfAdoration": "His Mercy Is More",
+        "openingScripture": "Psalm 130",
+        "callToWorship": "Come, Christians, Join to Sing #231",
+        "fellowshipSong": "There Shall Be Showers of Blessing #467",
+        "songOfExultation": "The Lily of the Valley #189",
+        "responsiveReadingQuestion": "NCC Q27",
+        "responsiveReadingReference": "Romans 5:16-17",
+        "songOfAdoration": "How Sweet and Awesome Is the Place",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "",
             "title": ""
             },
-        "sermonTitle": "Good Lessons from a Bad Example",
-        "sermonText": "Luke 16:1-13",
-        "songOfResponse": "Only Trust Him #317 ",
+        "sermonTitle": "To be announced...",
+        "sermonText": "Luke 16:14-??",
+        "songOfResponse": "Turn Your Eyes Upon Jesus #320",
         "theLordsSupper": 0,
         "benediction": "Numbers 6:24-26",
         "announcements": {
@@ -23,7 +23,7 @@
             "list": [
                 "Visitation & evangelism – Tuesday, March 19 at 6:00 PM.",
                 "Men’s meeting – Saturday, March 23 at 8:00 AM; breakfast will be provided.",
-                "This year's VBS, the Great Jungle Journey, is June 16-19."
+                "We need paper towel rolls & toilet paper rolls for VBS decorations."
             ]
         }
     }
