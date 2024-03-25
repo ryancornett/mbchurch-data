@@ -1,23 +1,23 @@
 {
-    "date": "3/24/2024",
+    "date": "3/31/2024",
     "details": {
-        "openingScripture": "Psalm 130",
-        "callToWorship": "Come, Christians, Join to Sing #231",
-        "fellowshipSong": "There Shall Be Showers of Blessing #467",
-        "songOfExultation": "The Lily of the Valley #189",
-        "responsiveReadingQuestion": "NCC Q27",
-        "responsiveReadingReference": "Romans 5:16-17",
-        "songOfAdoration": "How Sweet and Awesome Is the Place",
+        "openingScripture": "Psalm 131",
+        "callToWorship": "Crown Him with Many Crowns #161",
+        "fellowshipSong": "He Keeps Me Singing #425",
+        "songOfExultation": "Low in the Grave He Lay #160",
+        "responsiveReadingQuestion": "no catechism question this week",
+        "responsiveReadingReference": "1 Corinthians 15:20-26",
+        "songOfAdoration": "Christ the Lord Is Risen Today #159",
         "specialMusic": {
-            "isEmpty": "yes",
-            "provider": "",
-            "title": ""
+            "isEmpty": "no",
+            "provider": "MBC Choir",
+            "title": "We’ve a Story to Tell #586"
             },
-        "sermonTitle": "Hail Him/Nail Him, part 1",
-        "sermonText": "Mark 11:1-10",
-        "songOfResponse": "Turn Your Eyes Upon Jesus #320",
+        "sermonTitle": "n/a",
+        "sermonText": "n/a",
+        "songOfResponse": "Jesus Paid It All #134",
         "theLordsSupper": 0,
-        "benediction": "Numbers 6:24-26",
+        "benediction": "Hebrews 13:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
