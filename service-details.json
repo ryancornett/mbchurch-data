@@ -1,28 +1,28 @@
 {
-    "date": "3/31/2024",
+    "date": "4/07/2024",
     "details": {
-        "openingScripture": "Psalm 131",
-        "callToWorship": "Crown Him with Many Crowns #161",
-        "fellowshipSong": "He Keeps Me Singing #425",
-        "songOfExultation": "Low in the Grave He Lay #160",
-        "responsiveReadingQuestion": "no catechism question this week",
-        "responsiveReadingReference": "1 Corinthians 15:20-26",
-        "songOfAdoration": "Christ the Lord Is Risen Today #159",
+        "openingScripture": "Psalm 132:1-10",
+        "callToWorship": "Praise God from Whom All Blessings Flow #253",
+        "fellowshipSong": "And Can It Be #147",
+        "songOfExultation": "Praise, My Soul, the King of Heaven #032",
+        "responsiveReadingQuestion": "NCC Q28",
+        "responsiveReadingReference": "John 3:16-18, 36",
+        "songOfAdoration": "Bless the Lord, O My Soul",
         "specialMusic": {
-            "isEmpty": "no",
-            "provider": "MBC Choir",
-            "title": "We’ve a Story to Tell #586"
+            "isEmpty": "yes",
+            "provider": "",
+            "title": ""
             },
-        "sermonTitle": "How the Risen Christ Gives Us Hope",
-        "sermonText": "Luke 24:13-35",
-        "songOfResponse": "Jesus Paid It All #134",
-        "theLordsSupper": 0,
-        "benediction": "Hebrews 13:20-21",
+        "sermonTitle": "TBA",
+        "sermonText": "Luke 16:??",
+        "songOfResponse": "Softly and Tenderly #312",
+        "theLordsSupper": 1,
+        "benediction": "Jude 24-25",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Visitation & evangelism – Tuesday, March 19 at 6:00 PM.",
-                "Men’s meeting – Saturday, March 23 at 8:00 AM; breakfast will be provided.",
+                "Visitation & evangelism – Tuesday, April 02 at 6:00 PM.",
+                "Men’s meeting – Saturday, April 13 at 8:00 AM; breakfast will be provided.",
                 "We need paper towel rolls & toilet paper rolls for VBS decorations."
             ]
         }
