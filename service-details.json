@@ -1,28 +1,29 @@
 {
-    "date": "4/07/2024",
+    "date": "4/14/2024",
     "details": {
-        "openingScripture": "Psalm 132:1-10",
-        "callToWorship": "Praise God from Whom All Blessings Flow #253",
-        "fellowshipSong": "And Can It Be #147",
-        "songOfExultation": "We've a Story to Tell #586",
-        "responsiveReadingQuestion": "NCC Q28",
-        "responsiveReadingReference": "John 3:16-18, 36",
-        "songOfAdoration": "Bless the Lord, O My Soul",
+        "openingScripture": "Psalm 132:11-18",
+        "callToWorship": "Greater Is He That Is in Me #437",
+        "fellowshipSong": "My Jesus, I Love Thee #210",
+        "songOfExultation": "Praise, My Soul, the King of Heaven #032",
+        "responsiveReadingQuestion": "NCC Q29",
+        "responsiveReadingReference": "Ephesians 2:8-10",
+        "songOfAdoration": "What a Friend We Have in Jesus #182",
         "specialMusic": {
             "isEmpty": "no",
-            "provider": "Red Bird Choir",
-            "title": "several selections"
+            "provider": "Ryan Cornett",
+            "title": "Yet Not I, but Through Christ in Me"
             },
-        "sermonTitle": "by a Gideon Speaker",
+        "sermonTitle": "tba",
         "sermonText": "tba",
-        "songOfResponse": "Softly and Tenderly #312",
-        "theLordsSupper": 1,
-        "benediction": "Jude 24-25",
+        "songOfResponse": "Have Thine Own Way, Lord #294 ",
+        "theLordsSupper": 0,
+        "benediction": "Ephesians 3:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Visitation & evangelism – Tuesday, April 16 at 6:00 PM.",
-                "Men’s meeting – Saturday, April 13 at 8:00 AM; breakfast will be provided.",
+                "We gave $2,768.00 to Gideons International last Sunday. That’s enough to buy 553 full Bibles or 2,214 Testaments!",
+                "Visitation & evangelism – Tuesday, April 30 at 6:00 PM.",
+                "Men’s meeting – Saturday, April 27 at 8:00 AM; breakfast will be provided.",
                 "We need paper towel rolls & toilet paper rolls for VBS decorations."
             ]
         }
