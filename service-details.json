@@ -1,13 +1,13 @@
 {
-    "date": "4/21/2024",
+    "date": "4/28/2024",
     "details": {
-        "openingScripture": "Psalm 133",
-        "callToWorship": "Praise Him! Praise Him! #227",
-        "fellowshipSong": "He Lives #533",
-        "songOfExultation": "Heaven Came Down #438",
-        "responsiveReadingQuestion": "NCC Q30",
-        "responsiveReadingReference": "Galatians 2:20",
-        "songOfAdoration": "Be Thou My Vision #060",
+        "openingScripture": "Psalm 134",
+        "callToWorship": "The Bond of Love #384",
+        "fellowshipSong": "Savior, Like a Shepherd Lead Us #061",
+        "songOfExultation": "We Have Heard the Joyful Sound #581",
+        "responsiveReadingQuestion": "NCC Q31",
+        "responsiveReadingReference": "Ephesians 4:4-6",
+        "songOfAdoration": "Tis So Sweet to Trust in Jesus #411",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
@@ -15,14 +15,15 @@
             },
         "sermonTitle": "tba",
         "sermonText": "tba",
-        "songOfResponse": "O How He Loves You and Me #146",
+        "songOfResponse": "Come, Ye Sinners, Poor and Needy #323",
         "theLordsSupper": 0,
-        "benediction": "Romans 15:5-7",
+        "benediction": "2 Corinthians 13:14",
         "announcements": {
             "isEmpty": "no",
             "list": [
                 "The North American mission offering goal is $2,500.00.",
-                "Men’s meeting – Saturday, April 27 at 8:00 AM; breakfast will be provided.",
+                "The 20th Anniversary Celebration of the March Against Drugs is May 5 at 3:30 PM, starting at EKU Manchester.",
+                "Men’s meeting – Saturday, May 11 at 8:00 AM.",
                 "See Ryan to order a VBS shirt. We still need paper towel rolls & toilet paper rolls for VBS decorations."
             ]
         }
