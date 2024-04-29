@@ -1,13 +1,13 @@
 {
-    "date": "4/28/2024",
+    "date": "5/5/2024",
     "details": {
-        "openingScripture": "Psalm 134",
-        "callToWorship": "The Bond of Love #384",
-        "fellowshipSong": "Savior, Like a Shepherd Lead Us #061",
-        "songOfExultation": "We Have Heard the Joyful Sound #581",
-        "responsiveReadingQuestion": "NCC Q31",
-        "responsiveReadingReference": "Ephesians 4:4-6",
-        "songOfAdoration": "Tis So Sweet to Trust in Jesus #411",
+        "openingScripture": "Psalm 135:1-7",
+        "callToWorship": "O for a Thousand Tongues to Sing #216",
+        "fellowshipSong": "I Will Sing of My Redeemer #575",
+        "songOfExultation": "Footsteps of Jesus #483",
+        "responsiveReadingQuestion": "NCC Q32",
+        "responsiveReadingReference": "Romans 3:24-25a",
+        "songOfAdoration": "The Power of the Cross #232 (2008)",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
@@ -15,16 +15,15 @@
             },
         "sermonTitle": "tba",
         "sermonText": "tba",
-        "songOfResponse": "Come, Ye Sinners, Poor and Needy #323",
-        "theLordsSupper": 0,
-        "benediction": "2 Corinthians 13:14",
+        "songOfResponse": "Lord, I'm Coming Home #309",
+        "theLordsSupper": 1,
+        "benediction": "Numbers 6:24-26",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "The North American mission offering goal is $2,500.00.",
-                "The 20th Anniversary Celebration of the March Against Drugs is May 5 at 3:30 PM, starting at EKU Manchester.",
+                "The 20th Anniversary Celebration of the March Against Drugs is today at 3:30 PM, starting at EKU Manchester.",
                 "Men’s meeting – Saturday, May 11 at 8:00 AM.",
-                "See Ryan to order a VBS shirt. We still need paper towel rolls & toilet paper rolls for VBS decorations."
+                "See Ryan to order a VBS shirt before next week. We still need paper towel rolls & toilet paper rolls for VBS decorations."
             ]
         }
     }
