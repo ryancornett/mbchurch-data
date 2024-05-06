@@ -1,29 +1,28 @@
 {
-    "date": "5/5/2024",
+    "date": "5/12/2024",
     "details": {
-        "openingScripture": "Psalm 135:1-7",
-        "callToWorship": "O for a Thousand Tongues to Sing #216",
-        "fellowshipSong": "I Will Sing of My Redeemer #575",
-        "songOfExultation": "Footsteps of Jesus #483",
-        "responsiveReadingQuestion": "NCC Q32",
-        "responsiveReadingReference": "Romans 3:24-25a",
-        "songOfAdoration": "The Power of the Cross #232 (2008)",
+        "openingScripture": "Psalm 135:8-14",
+        "callToWorship": "O Worship the King #016",
+        "fellowshipSong": "Have Faith in God #405",
+        "songOfExultation": "Blessed Assurance #334",
+        "responsiveReadingQuestion": "NCC Q33",
+        "responsiveReadingReference": "Galatians 2:16",
+        "songOfAdoration": "I'd Rather Have Jesus #550",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "tba",
-        "sermonText": "tba",
-        "songOfResponse": "Lord, I'm Coming Home #309",
-        "theLordsSupper": 1,
-        "benediction": "Numbers 6:24-26",
+        "sermonText": "Luke 17:1-??",
+        "songOfResponse": "Jesus, Keep Me Near the Cross #280",
+        "theLordsSupper": 0,
+        "benediction": "Hebrews 13:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "The 20th Anniversary Celebration of the March Against Drugs is today at 3:30 PM, starting at EKU Manchester.",
-                "Men’s meeting – Saturday, May 11 at 8:00 AM.",
-                "See Ryan to order a VBS shirt before next week. We still need paper towel rolls & toilet paper rolls for VBS decorations."
+                "Men’s meeting – Saturday, May 25 at 8:00 AM.",
+                "We still need paper towel rolls & toilet paper rolls for VBS decorations."
             ]
         }
     }
