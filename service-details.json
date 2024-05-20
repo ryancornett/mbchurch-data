@@ -1,28 +1,28 @@
 {
-    "date": "5/19/2024",
+    "date": "5/26/2024",
     "details": {
-        "openingScripture": "Psalm 135:15-21",
-        "callToWorship": "Worthy of Worship #003",
+        "openingScripture": "Psalm 136:1-9",
+        "callToWorship": "Shine, Jesus, Shine #579",
         "fellowshipSong": "When the Roll Is Called Up Yonder #516",
-        "songOfExultation": "This Is My Father's World #043",
-        "responsiveReadingQuestion": "NCC Q34",
-        "responsiveReadingReference": "1 Peter 2:9-11",
-        "songOfAdoration": "God, Give Us Christian Homes #504",
+        "songOfExultation": "The Solid Rock #406",
+        "responsiveReadingQuestion": "NCC Q35",
+        "responsiveReadingReference": "Titus 3:4–6",
+        "songOfAdoration": "Because He Lives #407",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "tba",
-        "sermonText": "Luke 17:1-??",
-        "songOfResponse": "Grace Greater than Our Sin #329",
+        "sermonText": "Luke 17:11-",
+        "songOfResponse": "Speak to My Heart #281",
         "theLordsSupper": 0,
         "benediction": "Jude 24-25",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Men’s meeting – Saturday, May 25 at 8:00 AM.",
-                "VBS is now June 2-5! We will have a brief meeting after the service next Sunday morning, and will gather to decorate on Saturday, June 1."
+                "Men’s meeting – Saturday, June 8 at 8:00 AM.",
+                "VBS begins next Sunday! We will have a brief meeting after this morning’s service. Please come help decorate on Saturday, June 1 at 10:00 AM."
             ]
         }
     }
