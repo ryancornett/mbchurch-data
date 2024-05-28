@@ -1,28 +1,28 @@
 {
-    "date": "5/26/2024",
+    "date": "6/02/2024",
     "details": {
-        "openingScripture": "Psalm 136:1-9",
-        "callToWorship": "Shine, Jesus, Shine #579",
-        "fellowshipSong": "When the Roll Is Called Up Yonder #516",
-        "songOfExultation": "The Solid Rock #406",
-        "responsiveReadingQuestion": "NCC Q35",
-        "responsiveReadingReference": "Titus 3:4–6",
-        "songOfAdoration": "Because He Lives #407",
+        "openingScripture": "Psalm 136:10-16",
+        "callToWorship": "All Hail the Power of Jesus' Name #202",
+        "fellowshipSong": "I Know Whom I Have Believed #337",
+        "songOfExultation": "How Firm a Foundation #338",
+        "responsiveReadingQuestion": "NCC Q36",
+        "responsiveReadingReference": "John 14:15-17",
+        "songOfAdoration": "Send a Great Revival #466",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "tba",
-        "sermonText": "Luke 17:11-",
-        "songOfResponse": "Speak to My Heart #281",
-        "theLordsSupper": 0,
-        "benediction": "Jude 24-25",
+        "sermonText": "Luke 17:20-",
+        "songOfResponse": "I Am Thine, O Lord #290",
+        "theLordsSupper": 1,
+        "benediction": "Ephesians 3:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Men’s meeting – Saturday, June 8 at 8:00 AM.",
-                "VBS begins next Sunday! We will have a brief meeting after this morning’s service. Please come help decorate on Saturday, June 1 at 10:00 AM."
+                "The Great Jungle Journey VBS begins next tonight! Volunteers, please be here at 5:30.",
+                "Men’s meeting – Saturday, June 8 at 8:00 AM."
             ]
         }
     }
