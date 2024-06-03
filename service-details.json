@@ -1,28 +1,27 @@
 {
-    "date": "6/02/2024",
+    "date": "6/09/2024",
     "details": {
-        "openingScripture": "Psalm 136:10-16",
-        "callToWorship": "All Hail the Power of Jesus' Name #202",
-        "fellowshipSong": "I Know Whom I Have Believed #337",
-        "songOfExultation": "How Firm a Foundation #338",
-        "responsiveReadingQuestion": "NCC Q36",
-        "responsiveReadingReference": "John 14:15-17",
-        "songOfAdoration": "Send a Great Revival #466",
+        "openingScripture": "Psalm 136:17-26",
+        "callToWorship": "Are You Washed in the Blood #136",
+        "fellowshipSong": "I Love to Tell the Story #572",
+        "songOfExultation": "He Hideth My Soul #340",
+        "responsiveReadingQuestion": "NCC Q37",
+        "responsiveReadingReference": "Galatians 5:22-25",
+        "songOfAdoration": "Nothing but the Blood #135",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "tba",
-        "sermonText": "Luke 17:20-",
-        "songOfResponse": "I Am Thine, O Lord #290",
-        "theLordsSupper": 1,
-        "benediction": "Ephesians 3:20-21",
+        "sermonText": "Luke 18:1-??",
+        "songOfResponse": "Just As I Am #307",
+        "theLordsSupper": 0,
+        "benediction": "Colossians 3:16-17",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "The Great Jungle Journey VBS begins next tonight! Volunteers, please be here at 5:30.",
-                "Men’s meeting – Saturday, June 8 at 8:00 AM."
+                "Men’s meeting – Saturday, June 22 at 8:00 AM."
             ]
         }
     }
