@@ -1,27 +1,26 @@
 {
-    "date": "6/09/2024",
+    "date": "6/16/2024",
     "details": {
-        "openingScripture": "Psalm 136:17-26",
-        "callToWorship": "Are You Washed in the Blood #136",
-        "fellowshipSong": "I Love to Tell the Story #572",
-        "songOfExultation": "He Hideth My Soul #340",
-        "responsiveReadingQuestion": "NCC Q37",
-        "responsiveReadingReference": "Galatians 5:22-25",
-        "songOfAdoration": "Nothing but the Blood #135",
+        "openingScripture": "Psalm 137:1-8",
+        "callToWorship": "We Have Come into His House #361",
+        "fellowshipSong": "Standing on the Promises #335",
+        "songOfExultation": "Love Lifted Me #546",
+        "responsiveReadingQuestion": "NCC Q38",
+        "responsiveReadingReference": "Psalm 62:7-8",
+        "songOfAdoration": "His Mercy Is More",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "tba",
-        "sermonText": "Luke 18:1-??",
-        "songOfResponse": "Just As I Am #307",
+        "sermonText": "Luke 18:9-??",
+        "songOfResponse": "Rock of Ages, Cleft for Me #342",
         "theLordsSupper": 0,
         "benediction": "Colossians 3:16-17",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Women on Mission will meet on Monday, June 10 at 6:00 PM in the Fellowship Hall. Sylvia Robinson will present the program on Compassion through Hospitality. All women are invited and encouraged to be a part of this group!",
                 "Men’s meeting – Saturday, June 22 at 8:00 AM."
             ]
         }
