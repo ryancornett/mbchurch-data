@@ -1,27 +1,27 @@
 {
-    "date": "6/16/2024",
+    "date": "6/30/2024",
     "details": {
-        "openingScripture": "Psalm 138",
-        "callToWorship": "Doxology #253",
-        "fellowshipSong": "Immortal, Invisible, God Only Wise #006",
-        "songOfExultation": "When the Morning Comes #522",
-        "responsiveReadingQuestion": "NCC Q39",
-        "responsiveReadingReference": "Philippians 4:6-7",
-        "songOfAdoration": "Bless the Lord, O My Soul",
+        "openingScripture": "Psalm 139:1-16",
+        "callToWorship": "All People That on Earth Do Dwell #005",
+        "fellowshipSong": "There Is Power in the Blood #132",
+        "songOfExultation": "Down at the Cross #140",
+        "responsiveReadingQuestion": "NCC Q40",
+        "responsiveReadingReference": "Colossians 1:9-12",
+        "songOfAdoration": "Great Is Thy Faithfulness #054",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "TBA",
-        "sermonText": "Luke 18:15-",
-        "songOfResponse": "Freely, Freely #273",
+        "sermonText": "Luke 18:18-",
+        "songOfResponse": "Pass Me Not, O Gentle Savior #308",
         "theLordsSupper": 0,
         "benediction": "Psalm 67:1-3",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Men’s meeting – Saturday, June 22 at 8:00 AM."
+                "Men’s meeting – Saturday, July 13 at 8:00 AM."
             ]
         }
     }
