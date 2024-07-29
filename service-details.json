@@ -1,28 +1,33 @@
 {
-    "date": "7/07/2024",
+    "date": "8/04/2024",
     "details": {
-        "openingScripture": "Psalm 139:17-24",
-        "callToWorship": "We Will Glorify #213",
-        "fellowshipSong": "Down at the Cross #140",
-        "songOfExultation": "Stand Up, Stand Up for Jesus #485",
-        "responsiveReadingQuestion": "NCC Q41",
-        "responsiveReadingReference": "Matthew 6:9-13",
-        "songOfAdoration": "I Will Sing the Wondrous Story #537",
+        "openingScripture": "Psalm 143",
+        "callToWorship": "Oh, How I Love Jesus #217",
+        "fellowshipSong": "Sunshine in My Soul #430",
+        "songOfExultation": "At Calvary #138",
+        "responsiveReadingQuestion": "NCC Q45",
+        "responsiveReadingReference": "Luke 3:15-16",
+        "songOfAdoration": "Holy, Holy, Holy #002",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "TBA",
-        "sermonText": "Luke 18:31-",
-        "songOfResponse": "Pass Me Not, O Gentle Savior #308",
-        "theLordsSupper": 0,
-        "benediction": "Whiter Than Snow #325",
+        "sermonText": "Luke 19:1-?",
+        "songOfResponse": "Wherever He Leads I'll Go #285",
+        "theLordsSupper": 1,
+        "benediction": "Hebrews 13:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Women on Mission will meet tomorrow night, July 8, 2024, at 6:00 PM in the Fellowship Hall. Come join us!",
-                "Men’s meeting – Saturday, July 13 at 8:00 AM."
+                "There will be a brief business meeting after the morning service to consider improvements to our fellowship hall and basement:",
+                " 1. Replacement of old tile with vinyl pieces that will have a wood grain finish",
+                " 2. Trim around the walls",
+                " 3. Painting and ceiling repairs",
+                " 4. Repair leaks in the old furnace room",
+                "Estimated cost: $25-30,000.00. A vote will be held at the end of the meeting.",
+                "The Sunday School picnic is on Sunday, August 18 at 5:00 PM at Mark and Ann Deaton’s farm."
             ]
         }
     }
