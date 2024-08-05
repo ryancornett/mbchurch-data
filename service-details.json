@@ -1,33 +1,28 @@
 {
-    "date": "8/04/2024",
+    "date": "8/11/2024",
     "details": {
-        "openingScripture": "Psalm 143",
-        "callToWorship": "Oh, How I Love Jesus #217",
-        "fellowshipSong": "Sunshine in My Soul #430",
-        "songOfExultation": "At Calvary #138",
-        "responsiveReadingQuestion": "NCC Q45",
-        "responsiveReadingReference": "Luke 3:15-16",
-        "songOfAdoration": "Holy, Holy, Holy #002",
+        "openingScripture": "Psalm 144",
+        "callToWorship": "The Family of God #386",
+        "fellowshipSong": "When We All Get to Heaven #514",
+        "songOfExultation": "Surely Goodness and Mercy #422",
+        "responsiveReadingQuestion": "NCC Q46",
+        "responsiveReadingReference": "1 Corinthians 10:16-17",
+        "songOfAdoration": "I Stand Amazed in the Presence #547",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
-        "sermonTitle": "TBA",
-        "sermonText": "Luke 19:1-?",
-        "songOfResponse": "Wherever He Leads I'll Go #285",
-        "theLordsSupper": 1,
+        "sermonTitle": "The Present Crisis and the Coming King",
+        "sermonText": "Luke 19:11-27",
+        "songOfResponse": "Without Him #300",
+        "theLordsSupper": 0,
         "benediction": "Hebrews 13:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "There will be a brief business meeting after the morning service to consider improvements to our fellowship hall and basement:",
-                " 1. Replacement of old tile with vinyl pieces that will have a wood grain finish",
-                " 2. Trim around the walls",
-                " 3. Painting and ceiling repairs",
-                " 4. Repair leaks in the old furnace room",
-                "Estimated cost: $25-30,000.00. A vote will be held at the end of the meeting.",
-                "The Sunday School picnic is on Sunday, August 18 at 5:00 PM at Mark and Ann Deaton’s farm."
+                "Christmas Shoebox time is upon us. We will take up an offering for this ministry next Sunday. If you would like to donate sooner, you can give it to Mike or Linda Baker.",
+                "The Sunday School picnic is next Sunday at 5:00 PM at Mark and Ann Deaton’s farm."
             ]
         }
     }
