@@ -1,28 +1,28 @@
 {
-    "date": "8/11/2024",
+    "date": "8/18/2024",
     "details": {
-        "openingScripture": "Psalm 144",
-        "callToWorship": "The Family of God #386",
-        "fellowshipSong": "When We All Get to Heaven #514",
-        "songOfExultation": "Surely Goodness and Mercy #422",
-        "responsiveReadingQuestion": "NCC Q46",
-        "responsiveReadingReference": "1 Corinthians 10:16-17",
-        "songOfAdoration": "I Stand Amazed in the Presence #547",
+        "openingScripture": "Psalm 144:9-15",
+        "callToWorship": "Majesty #215",
+        "fellowshipSong": "Count Your Blessings #644",
+        "songOfExultation": "Trust and Obey #447",
+        "responsiveReadingQuestion": "NCC Q47",
+        "responsiveReadingReference": "1 John 4:9-10",
+        "songOfAdoration": "Redeemed #531",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
-        "sermonTitle": "The Song of the Church",
-        "sermonText": "Colossians 3:16-17",
-        "songOfResponse": "Without Him #300",
+        "sermonTitle": "TBA",
+        "sermonText": "TBA",
+        "songOfResponse": "Amazing Grace #330",
         "theLordsSupper": 0,
-        "benediction": "Hebrews 13:20-21",
+        "benediction": "Jude 24-25",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Christmas Shoebox time is upon us. We will take up an offering for this ministry next Sunday. If you would like to donate sooner, you can give it to Mike or Linda Baker.",
-                "The Sunday School picnic is next Sunday at 5:00 PM at Mark and Ann Deaton’s farm."
+                "Christmas Shoebox time is upon us. We will take up an offering for this ministry today.",
+                "The Sunday School picnic is next today at 5:00 PM at Mark and Ann Deaton’s farm (five miles from the 421/11 junction toward Oneida, on the right)."
             ]
         }
     }
