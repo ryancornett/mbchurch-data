@@ -1,13 +1,13 @@
 {
-    "date": "8/18/2024",
+    "date": "8/25/2024",
     "details": {
-        "openingScripture": "Psalm 144:9-15",
-        "callToWorship": "Majesty #215",
-        "fellowshipSong": "Count Your Blessings #644",
-        "songOfExultation": "Trust and Obey #447",
-        "responsiveReadingQuestion": "NCC Q47",
-        "responsiveReadingReference": "1 John 4:9-10",
-        "songOfAdoration": "Redeemed #531",
+        "openingScripture": "Psalm 145:1-7",
+        "callToWorship": "Rejoice in the Lord Always #433",
+        "fellowshipSong": "Higher Ground #484",
+        "songOfExultation": "The Old Rugged Cross #141",
+        "responsiveReadingQuestion": "NCC Q48",
+        "responsiveReadingReference": "2 Thessalonians 2:13-14",
+        "songOfAdoration": "In Christ Alone",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
@@ -15,14 +15,13 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Amazing Grace #330",
+        "songOfResponse": "Have You Been to Calvary #324",
         "theLordsSupper": 0,
-        "benediction": "Jude 24-25",
+        "benediction": "1 Thessalonians 3:11-13",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Christmas Shoebox time is upon us. We will take up an offering for this ministry today.",
-                "The Sunday School picnic is next today at 5:00 PM at Mark and Ann Deaton’s farm (five miles from the 421/11 junction toward Oneida, on the right)."
+                "We will meet at Rawlings-Stinson park for our Sunday evening services on September 1 and 22. Bring a lawn chair (or two!) and come ready to sing so others may hear of our glorious Lord!"
             ]
         }
     }
