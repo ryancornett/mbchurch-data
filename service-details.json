@@ -1,13 +1,13 @@
 {
-    "date": "8/25/2024",
+    "date": "9/1/2024",
     "details": {
-        "openingScripture": "Psalm 145:1-7",
-        "callToWorship": "Rejoice in the Lord Always #433",
-        "fellowshipSong": "Higher Ground #484",
-        "songOfExultation": "The Old Rugged Cross #141",
-        "responsiveReadingQuestion": "NCC Q48",
-        "responsiveReadingReference": "2 Thessalonians 2:13-14",
-        "songOfAdoration": "In Christ Alone",
+        "openingScripture": "Psalm 145:8-13",
+        "callToWorship": "Soon and Very Soon #192",
+        "fellowshipSong": "At the Cross #139",
+        "songOfExultation": "How Great Thou Art #010",
+        "responsiveReadingQuestion": "NCC Q49",
+        "responsiveReadingReference": "Acts 2:32-35",
+        "songOfAdoration": "How Deep the Father's Love for Us",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
@@ -15,14 +15,14 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Have You Been to Calvary #324",
-        "theLordsSupper": 0,
-        "benediction": "1 Thessalonians 3:11-13",
+        "songOfResponse": "Just a Closer Walk with Thee #448",
+        "theLordsSupper": 1,
+        "benediction": "Romans 11:33, 36",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "We will give away bottles of water and tracts to MMF concert goers from the front lawn Thursday, 8/29 from 6-8 PM; Friday, 8/30 from 2-6 PM; and Saturday, 8/31 from 2-6 PM. Sign up in the foyer and see Ryan about donating cases of water.",
-                "We will meet at Rawlings-Stinson park for our Sunday evening services on September 1 and 22. Bring a lawn chair (or two!) and come ready to sing so others may hear of our glorious Lord!"
+                "We gave out water and tracts, and invited dozens to worship with us during the music festival last week. Special thanks to all those who volunteered their time or donated money, water, ice, or other materials!",
+                "We will meet at Rawlings-Stinson park for our Sunday evening services tonight and September 22. Bring a lawn chair (or two!) and come ready to sing so others may hear of our glorious Lord!"
             ]
         }
     }
