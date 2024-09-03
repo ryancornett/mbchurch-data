@@ -1,13 +1,13 @@
 {
-    "date": "9/1/2024",
+    "date": "9/8/2024",
     "details": {
-        "openingScripture": "Psalm 145:8-13",
-        "callToWorship": "Soon and Very Soon #192",
-        "fellowshipSong": "At the Cross #139",
-        "songOfExultation": "How Great Thou Art #010",
-        "responsiveReadingQuestion": "NCC Q49",
-        "responsiveReadingReference": "Acts 2:32-35",
-        "songOfAdoration": "How Deep the Father's Love for Us",
+        "openingScripture": "Psalm 145:14-21",
+        "callToWorship": "Seek Ye First #478",
+        "fellowshipSong": "Send the Light #595",
+        "songOfExultation": "Victory in Jesus #426",
+        "responsiveReadingQuestion": "NCC Q50",
+        "responsiveReadingReference": "1 Thessalonians 4:13–14",
+        "songOfAdoration": "It Is Well with My Soul #410",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
@@ -15,14 +15,16 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Just a Closer Walk with Thee #448",
-        "theLordsSupper": 1,
+        "songOfResponse": "I Surrender All #275",
+        "theLordsSupper": 0,
         "benediction": "Romans 11:33, 36",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "We gave out water and tracts, and invited dozens to worship with us during the music festival last week. Special thanks to all those who volunteered their time or donated money, water, ice, or other materials!",
-                "We will meet at Rawlings-Stinson park for our Sunday evening services tonight and September 22. Bring a lawn chair (or two!) and come ready to sing so others may hear of our glorious Lord!"
+                "The WMU will meet tomorrow evening at 6:00 PM in the Fellowship Hall.",
+                "We will meet at Rawlings-Stinson park for our Sunday evening service on September 22. Last Sunday night was our best ever turnout for an outdoor service and we had a wonderful meeting! So, plan to come and bring a lawn chair (or two).",
+                "If you are interested in helping host a booth at Shaping Clay Jubilee (Oct. 4-5) similar to what we had at the Manchester Music Festival, please see Ryan (looking for ideas!).",
+                "We will hold a treat giveaway in the lawn during county trick or treat hours (likely Thursday, 10/31, 5-7 PM). Please consider setting up and/or donating candy. We will also pass out invitations and tracts, so there will be an opportunity to serve by putting those together. Look for flyers soon."
             ]
         }
     }
