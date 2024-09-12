@@ -1,31 +1,30 @@
 {
-    "date": "9/8/2024",
+    "date": "9/15/2024",
     "details": {
-        "openingScripture": "Psalm 145:14-21",
-        "callToWorship": "Seek Ye First #478",
-        "fellowshipSong": "Send the Light #595",
-        "songOfExultation": "Victory in Jesus #426",
-        "responsiveReadingQuestion": "NCC Q50",
-        "responsiveReadingReference": "1 Thessalonians 4:13–14",
-        "songOfAdoration": "It Is Well with My Soul #410",
+        "openingScripture": "Psalm 146",
+        "callToWorship": "Glorify Thy Name #249",
+        "fellowshipSong": "Wonderful Words of Life #261",
+        "songOfExultation": "His Mercy Is More",
+        "responsiveReadingQuestion": "NCC Q51",
+        "responsiveReadingReference": "Romans 8:33-34",
+        "songOfAdoration": "Come Thou Fount #015",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
-        "sermonTitle": "TBA",
-        "sermonText": "TBA",
-        "songOfResponse": "I Surrender All #275",
+        "sermonTitle": "Jesus Takes Aim!",
+        "sermonText": "Luke 19:45-48",
+        "songOfResponse": "Only Trust Him #317",
         "theLordsSupper": 0,
-        "benediction": "Romans 11:33, 36",
+        "benediction": "Numbers 6:24-26",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "The WMU will meet tomorrow evening at 6:00 PM in the Fellowship Hall.",
                 "The Eliza Broadus state mission offering goal is $2,500.",
-                "We will meet at Rawlings-Stinson park for our Sunday evening service on September 22. Last Sunday night was our best ever turnout for an outdoor service and we had a wonderful meeting! So, plan to come and bring a lawn chair (or two).",
-                "If you are interested in helping host a booth at Shaping Clay Jubilee (Oct. 4-5) similar to what we had at the Manchester Music Festival, please see Ryan (looking for ideas!).",
-                "We will hold a treat giveaway in the lawn during county trick or treat hours (likely Thursday, 10/31, 5-7 PM). Please consider setting up and/or donating candy. We will also pass out invitations and tracts, so there will be an opportunity to serve by putting those together. Look for flyers soon."
+                "We will meet at Rawlings-Stinson park for our Sunday evening service on September 22. Bring a lawn chair (or two).",
+                "If you are interested in helping host our booth at Shaping Clay Jubilee (Oct. 4-5), please sign up in the foyer. We will pass out apple cider and invitations.",
+                "We will hold a treat giveaway in the lawn during county trick or treat hours (likely Thursday, 10/31, 5-7 PM). Please consider setting up and/or donating candy. Look for flyers soon."
             ]
         }
     }
