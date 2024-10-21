@@ -1,28 +1,27 @@
 {
-    "date": "10/20/2024",
+    "date": "10/27/2024",
     "details": {
-        "openingScripture": "Psalm 149",
-        "callToWorship": "O for a Thousand Tongues to Sing #216",
-        "fellowshipSong": "I Will Sing of My Redeemer #575",
-        "songOfExultation": "Footsteps of Jesus #483",
-        "responsiveReading": "Isaiah 12:1-4",
+        "openingScripture": "Psalm 150",
+        "callToWorship": "Tis So Sweet to Trust in Jesus #411",
+        "fellowshipSong": "We Have Heard the Joyful Sound #581",
+        "songOfExultation": "Jesus Paid It All #134",
+        "responsiveReading": "Ephesians 4:1b-8",
         "songOfAdoration": "The Power of the Cross",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
-        "sermonTitle": "The End of What?",
-        "sermonText": "Luke 21:5-25",
-        "songOfResponse": "Lord, I'm Coming Home #309",
+        "sermonTitle": "TBA",
+        "sermonText": "Luke 21:26-",
+        "songOfResponse": "Whiter Than Snow #325",
         "theLordsSupper": 0,
         "benediction": "Ephesians 3:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Today's evening service will be held at Rawlings-Stinson park at 6:00 PM. Bring some lawn chairs and your singing voice!",
-                "October is Pastor Appreciation month! We have a box in the foyer for thank-you cards, gift cards, etc., for Pastor Ken. Drop in your cards/gifts through next Sunday.",
-                "We will hold a treat giveaway during county trick or treat hours in front of Subway on Thursday, 10/31 from 5:00-7:00 PM. Please sign up in the foyer.",
+                "October is Pastor Appreciation month! We have a box in the foyer for thank-you cards, gift cards, etc., for Pastor Ken. Drop in your cards/gifts today!",
+                "The treat giveaway is Thursday from 5:00-7:00 PM in front of Subway. Please donate candy and help pass it out; sign up in the foyer.",
                 "Homecoming is Sunday, November 10. Allen Roberts will preach with a fellowship meal to follow.",
                 "October memory verse: Hebrews 4:12 ESV"
             ]
