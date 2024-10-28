@@ -1,28 +1,26 @@
 {
-    "date": "10/27/2024",
+    "date": "11/03/2024",
     "details": {
-        "openingScripture": "Psalm 150",
-        "callToWorship": "A Mighty Fortress Is Our God #008",
-        "fellowshipSong": "We Have Heard the Joyful Sound #581",
-        "songOfExultation": "Jesus Paid It All #134",
-        "responsiveReading": "Ephesians 4:1b-8",
-        "songOfAdoration": "The Power of the Cross",
+        "openingScripture": "Psalm 2:10-12",
+        "callToWorship": "O Worship the King #016",
+        "fellowshipSong": "Have Faith in God #405",
+        "songOfExultation": "Tis So Sweet to Trust in Jesus #411",
+        "responsiveReading": "Matthew 6:7-14",
+        "songOfAdoration": "Blessed Assurance #334",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
         "sermonTitle": "TBA",
-        "sermonText": "Luke 21:26-",
-        "songOfResponse": "Whiter Than Snow #325",
-        "theLordsSupper": 0,
-        "benediction": "Ephesians 3:20-21",
+        "sermonText": "Luke 22:1-",
+        "songOfResponse": "I'd Rather Have Jesus #550",
+        "theLordsSupper": 1,
+        "benediction": "Colossians 3:16-17",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "October is Pastor Appreciation month! We have a box in the foyer for thank-you cards, gift cards, etc., for Pastor Ken. Drop in your cards/gifts today!",
-                "The treat giveaway is Thursday from 5:00-7:00 PM in front of Subway. Please donate candy and help pass it out; sign up in the foyer.",
-                "Homecoming is Sunday, November 10. Allen Roberts will preach with a fellowship meal to follow.",
+                "Homecoming is next Sunday, November 10. Allen Roberts will preach with a fellowship meal to follow.",
                 "October memory verse: Hebrews 4:12 ESV"
             ]
         }
