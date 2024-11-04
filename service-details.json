@@ -1,27 +1,27 @@
 {
-    "date": "11/03/2024",
+    "date": "11/10/2024",
     "details": {
-        "openingScripture": "Psalm 2:10-12",
-        "callToWorship": "O Worship the King #016",
-        "fellowshipSong": "Have Faith in God #405",
-        "songOfExultation": "Tis So Sweet to Trust in Jesus #411",
-        "responsiveReading": "Matthew 6:7-14",
-        "songOfAdoration": "Blessed Assurance #334",
+        "openingScripture": "Psalm 3",
+        "callToWorship": "We Will Glorify #213",
+        "fellowshipSong": "Down at the Cross #140",
+        "songOfExultation": "Stand Up, Stand Up for Jesus #485",
+        "responsiveReading": "2 Corinthians 5:17-21",
+        "songOfAdoration": "I Will Sing the Wondrous Story #537",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
-        "sermonTitle": "Judas: The Man Who Lost Interest in Jesus",
-        "sermonText": "Luke 22:1-6",
-        "songOfResponse": "I'd Rather Have Jesus #550",
+        "sermonTitle": "TBA",
+        "sermonText": "TBA",
+        "songOfResponse": "Amazing Grace #330",
         "theLordsSupper": 1,
-        "benediction": "Colossians 3:16-17",
+        "benediction": "2 Corinthians 13:14",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Homecoming is next Sunday, November 10. Allen Roberts will preach with a fellowship meal to follow.",
-                "October memory verse: Hebrews 4:12 ESV"
+                "Please stay after the service for the fellowship meal!",
+                "November memory verse: Colossians 3:17 ESV"
             ]
         }
     }
