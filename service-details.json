@@ -1,12 +1,12 @@
 {
-    "date": "11/10/2024",
+    "date": "11/17/2024",
     "details": {
-        "openingScripture": "Psalm 3",
-        "callToWorship": "We Will Glorify #213",
-        "fellowshipSong": "Down at the Cross #140",
-        "songOfExultation": "Stand Up, Stand Up for Jesus #485",
-        "responsiveReading": "2 Corinthians 5:17-21",
-        "songOfAdoration": "I Will Sing the Wondrous Story #537",
+        "openingScripture": "Psalm 4",
+        "callToWorship": "All People That on Earth Do Dwell #005",
+        "fellowshipSong": "There Is Power in the Blood #132",
+        "songOfExultation": "His Mercy Is More",
+        "responsiveReading": "Lamentations 3:19-26",
+        "songOfAdoration": "Great Is Thy Faithfulness #054",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
@@ -14,14 +14,14 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Amazing Grace #330",
-        "theLordsSupper": 1,
-        "benediction": "2 Corinthians 13:14",
+        "songOfResponse": "Pass Me Not, O Gentle Savior #308",
+        "theLordsSupper": 0,
+        "benediction": "Romans 11:33, 36",
         "announcements": {
             "isEmpty": "no",
             "list": [
-                "Please stay after the service for the fellowship meal!",
-                "November memory verse: Colossians 3:17 ESV"
+                "November memory verse: Colossians 3:17 ESV",
+                "The next quarterly business meeting is Sunday, December 1."
             ]
         }
     }
