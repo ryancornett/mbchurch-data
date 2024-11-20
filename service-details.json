@@ -1,27 +1,28 @@
 {
-    "date": "11/17/2024",
+    "date": "11/24/2024",
     "details": {
-        "openingScripture": "Psalm 4",
-        "callToWorship": "All People That on Earth Do Dwell #005",
-        "fellowshipSong": "There Is Power in the Blood #132",
-        "songOfExultation": "His Mercy Is More",
-        "responsiveReading": "Lamentations 3:19-26",
-        "songOfAdoration": "Great Is Thy Faithfulness #054",
+        "openingScripture": "Psalm 5:1-8",
+        "callToWorship": "Doxology #253",
+        "fellowshipSong": "When the Roll Is Called Up Yonder #516",
+        "songOfExultation": "The Solid Rock #406",
+        "responsiveReading": "1 John 1:1-4",
+        "songOfAdoration": "This Is My Father's World #043",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
             "title": "Yet Not I, but Through Christ in Me"
             },
-        "sermonTitle": "TBA",
-        "sermonText": "TBA",
-        "songOfResponse": "Pass Me Not, O Gentle Savior #308",
+        "sermonTitle": "Assigned a Kingdom",
+        "sermonText": "Luke 22:24-30",
+        "songOfResponse": "Grace Greater than Our Sin #329",
         "theLordsSupper": 0,
-        "benediction": "Romans 11:33, 36",
+        "benediction": "2 Corinthians 13:14",
         "announcements": {
             "isEmpty": "no",
             "list": [
                 "November memory verse: Colossians 3:17 ESV",
                 "The next quarterly business meeting is Sunday, December 1.",
+                "\"Stroll through Bethlehem\" is December 7 from 5:00-8:00 PM. MBC will build and man the inn.",
                 "The Ladies’ Ornament Exchange is December 9 at 6:00 PM at Ann Deaton’s house. Please bring an appetizer or dessert; soup will be provided."
             ]
         }
