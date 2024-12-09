@@ -1,12 +1,12 @@
 {
-    "date": "12/08/2024",
+    "date": "12/15/2024",
     "details": {
-        "openingScripture": "Deuteronomy 32:1-4",
-        "callToWorship": "His Name Is Wonderful #203",
-        "fellowshipSong": "O Little Town of Bethlehem #086",
-        "songOfExultation": "Angels We Have Heard on High #100",
-        "responsiveReading": "Proverbs 2:1-8",
-        "songOfAdoration": "Joyful, Joyful, We Adore Thee #007",
+        "openingScripture": "Job 37:5-13",
+        "callToWorship": "Infant Holy, Infant Lowly #106",
+        "fellowshipSong": "It Came upon the Midnight Clear #093",
+        "songOfExultation": "Joy to the World #087",
+        "responsiveReading": "Matthew 6:7-14",
+        "songOfAdoration": "Good Christian Men, Rejoice #096",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "Ryan Cornett",
@@ -16,14 +16,13 @@
         "sermonText": "TBA",
         "songOfResponse": "Have You Been to Calvary #324",
         "theLordsSupper": 0,
-        "benediction": "Numbers 6:24-26",
+        "benediction": "I Stand Amazed in the Presence #547",
         "announcements": {
             "isEmpty": "no",
             "list": [
                 "December memory verse: Isaiah 9:6 ESV.",
-                "The Ladies’ Ornament Exchange is December 9 at 6:00 PM at Ann Deaton’s house. Please bring an appetizer or dessert; soup will be provided.",
-                "We are collecting Christmas cards among church members for the Lottie Moon Christmas Offering through Wednesday, December 18 at 6:00 PM, to hand them out on Sunday, December 22. Postage is $0.73 per card; cards can be given to Mike, Brian or Butch. Donations for the big screen are $100, and we need those as soon as possible. They can include either a card or digital picture.",
-                "We will pass out Christmas treat bags on December 22 after the morning worship service."
+                "We are collecting Christmas cards among church members for the Lottie Moon Christmas Offering through Wednesday at 6:00 PM, to hand them out next Sunday. Postage is $0.73 per card; cards can be given to Mike, Brian or Butch. Donations for the big screen are $100, and we need those as soon as possible. They can include either a card or digital picture.",
+                "We will pass out Christmas treat bags next Sunday after the morning worship service."
             ]
         }
     }
