@@ -1,28 +1,27 @@
 {
-    "date": "12/15/2024",
+    "date": "12/22/2024",
     "details": {
-        "openingScripture": "Job 37:5-13",
-        "callToWorship": "Infant Holy, Infant Lowly #106",
-        "fellowshipSong": "It Came upon the Midnight Clear #093",
-        "songOfExultation": "Joy to the World #087",
-        "responsiveReading": "Matthew 6:7-14",
-        "songOfAdoration": "Good Christian Men, Rejoice #096",
+        "openingScripture": "Luke 1:46-55",
+        "callToWorship": "Go, Tell It on the Mountain #095",
+        "fellowshipSong": "O Come, All Ye Faithful #089",
+        "songOfExultation": "Hark! The Herald Angels Sing #088",
+        "responsiveReading": "1 Timothy 6:12-16",
+        "songOfAdoration": "Silent Night, Holy Night #091",
         "specialMusic": {
             "isEmpty": "yes",
-            "provider": "Ryan Cornett",
-            "title": "Yet Not I, but Through Christ in Me"
+            "provider": "",
+            "title": ""
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Have You Been to Calvary #324",
+        "songOfResponse": "The Old Rugged Cross #141",
         "theLordsSupper": 0,
-        "benediction": "I Stand Amazed in the Presence #547",
+        "benediction": "Hebrews 13:20-21",
         "announcements": {
             "isEmpty": "no",
             "list": [
                 "December memory verse: Isaiah 9:6 ESV.",
-                "We are collecting Christmas cards among church members for the Lottie Moon Christmas Offering through Wednesday at 6:00 PM, to hand them out next Sunday. Postage is $0.73 per card; cards can be given to Mike, Brian or Butch. Donations for the big screen are $100, and we need those as soon as possible. They can include either a card or digital picture.",
-                "We will pass out Christmas treat bags next Sunday after the morning worship service."
+                "We will pass out Christmas treat bags after the morning service."
             ]
         }
     }
