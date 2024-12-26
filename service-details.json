@@ -1,12 +1,12 @@
 {
-    "date": "12/22/2024",
+    "date": "12/29/2024",
     "details": {
-        "openingScripture": "Luke 1:46-55",
-        "callToWorship": "Go, Tell It on the Mountain #095",
-        "fellowshipSong": "O Come, All Ye Faithful #089",
-        "songOfExultation": "Hark! The Herald Angels Sing #088",
-        "responsiveReading": "1 Timothy 6:12-16",
-        "songOfAdoration": "Silent Night, Holy Night #091",
+        "openingScripture": "Ecclesiastes 7:8-14",
+        "callToWorship": "What Child Is This #118",
+        "fellowshipSong": "He Keeps Me Singing #425",
+        "songOfExultation": "Heavenly Sunlight #424",
+        "responsiveReading": "Revelation 21:1-5",
+        "songOfAdoration": "Because He Lives #407",
         "specialMusic": {
             "isEmpty": "yes",
             "provider": "",
@@ -14,14 +14,14 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "The Old Rugged Cross #141",
+        "songOfResponse": "Speak to My Heart #281",
         "theLordsSupper": 0,
-        "benediction": "Hebrews 13:20-21",
+        "benediction": "Psalm 72:18-19 paraphrase set to AULD LANG SYNE",
         "announcements": {
             "isEmpty": "no",
             "list": [
                 "December memory verse: Isaiah 9:6 ESV.",
-                "We will pass out Christmas treat bags after the morning service."
+                "The Lottie Moon Christmas Offering goal is $5,000."
             ]
         }
     }
