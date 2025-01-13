@@ -4,22 +4,22 @@
         "openingScripture": "Isaiah 10:1-4",
         "callToWorship": "Praise God from Whom All Blessings Flow #253",
         "fellowshipSong": "Jesus Shall Reign #587",
-        "nextSongIsExultation": 1,
+        "nextSongIsExultation": true,
         "song": "His Mercy Is More",
         "responsiveReading": "Psalm 139:13-16",
         "songOfAdoration": "This Is My Father's World #043",
         "specialMusic": {
-            "isEmpty": 1,
+            "isScheduled": false,
             "provider": "",
             "title": ""
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
         "songOfResponse": "O Love That Wilt Not Let Me Go #292",
-        "theLordsSupper": 1,
+        "theLordsSupper": true,
         "closing": "Blest Be the Tie That Binds",
         "announcements": {
-            "isEmpty": 0,
+            "isPopulated": true,
             "list": [
                 "January memory verse: 2 Timothy 3:16 ESV.",
                 "Today Sanctity of Life Sunday.",
