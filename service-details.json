@@ -1,27 +1,28 @@
 {
-    "date": "1/12/2025",
+    "date": "1/19/2025",
     "details": {
-        "openingScripture": "Isaiah 2:2-5",
-        "callToWorship": "Worthy of Worship #003",
-        "fellowshipSong": "He Hideth My Soul #340",
-        "songOfExultation": "Send a Great Revival #466",
-        "responsiveReading": "Proverbs 3:1-6",
-        "songOfAdoration": "How Firm a Foundation #338",
+        "openingScripture": "Isaiah 10:1-4",
+        "callToWorship": "Praise God from Whom All Blessings Flow #253",
+        "fellowshipSong": "Jesus Shall Reign #587",
+        "nextSongIsExultation": 1,
+        "song": "His Mercy Is More",
+        "responsiveReading": "Psalm 139:13-16",
+        "songOfAdoration": "This Is My Father's World #043",
         "specialMusic": {
-            "isEmpty": "yes",
+            "isEmpty": 1,
             "provider": "",
             "title": ""
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "I Am Thine, O Lord #290",
+        "songOfResponse": "O Love That Wilt Not Let Me Go #292",
         "theLordsSupper": 1,
-        "benediction": "Blest Be the Tie That Binds",
+        "closing": "Blest Be the Tie That Binds",
         "announcements": {
-            "isEmpty": "no",
+            "isEmpty": 0,
             "list": [
                 "January memory verse: 2 Timothy 3:16 ESV.",
-                "Sanctity of Life Sunday is next Sunday, January 19.",
+                "Today Sanctity of Life Sunday.",
                 "The 4th annual Chili Cook-Off is Sunday, February 16."
             ]
         }
