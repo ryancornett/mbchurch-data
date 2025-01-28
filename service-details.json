@@ -1,13 +1,13 @@
 {
-    "date": "1/19/2025",
+    "date": "2/2/2025",
     "details": {
-        "openingScripture": "Isaiah 10:1-4",
-        "callToWorship": "Praise God from Whom All Blessings Flow #253",
-        "fellowshipSong": "Jesus Shall Reign #587",
+        "openingScripture": "2 Kings 6:8-23",
+        "callToWorship": "We Have Come into His House #361",
+        "fellowshipSong": "Are You Washed in the Blood #136",
         "nextSongIsExultation": true,
-        "song": "His Mercy Is More",
-        "responsiveReading": "Psalm 139:13-16",
-        "songOfAdoration": "This Is My Father's World #043",
+        "song": "Standing on the Promises #335",
+        "responsiveReading": "Romans 13:1-5",
+        "songOfAdoration": "Love Lifted Me #546",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,15 +15,15 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "O Love That Wilt Not Let Me Go #292",
+        "songOfResponse": "Rock of Ages, Cleft for Me #342",
         "theLordsSupper": true,
-        "closing": "Blest Be the Tie That Binds",
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "January memory verse: 2 Timothy 3:16 ESV.",
-                "Today Sanctity of Life Sunday.",
-                "The 4th annual Chili Cook-Off is Sunday, February 16."
+                "February memory verse: 2 Corinthians 13:11 ESV.",
+                "The 4th annual Chili Cook-Off is next Sunday, February 09. Sign up to bring something in the foyer!",
+                "From Carol: We are making our last trip to Cuba to help supply our friends with medicine and money to buy pigs and chicken boxes to feed the church."
             ]
         }
     }
