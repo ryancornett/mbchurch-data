@@ -1,13 +1,13 @@
 {
-    "date": "2/2/2025",
+    "date": "2/9/2025",
     "details": {
-        "openingScripture": "2 Kings 6:8-23",
-        "callToWorship": "We Have Come into His House #361",
-        "fellowshipSong": "Are You Washed in the Blood #136",
+        "openingScripture": "Daniel 2:20b-23a",
+        "callToWorship": "All Hail the Power of Jesus' Name #202",
+        "fellowshipSong": "Jesus Shall Reign #587",
         "nextSongIsExultation": true,
-        "song": "Standing on the Promises #335",
-        "responsiveReading": "Romans 13:1-5",
-        "songOfAdoration": "Love Lifted Me #546",
+        "song": "There Is a Fountain #142",
+        "responsiveReading": "Isaiah 40:28-31",
+        "songOfAdoration": "Holy, Holy, Holy #002",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,14 +15,15 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Rock of Ages, Cleft for Me #342",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "songOfResponse": "Jesus, Keep Me Near the Cross #280",
+        "theLordsSupper": false,
+        "closing": "Psalm 7:17 (paraphrase in meter)",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "February memory verse: 2 Corinthians 13:11 ESV.",
-                "The 4th annual Chili Cook-Off is next Sunday, February 09. Sign up to bring something in the foyer!",
+                "The 4th annual Chili Cook-Off is Sunday, February 09. Sign up to bring something in the foyer!",
+                "The Valentine Banquet is Wednesday, February 12 at 6:00 PM. The church will provide the meat; attendees will provide sides and desserts.",
                 "From Carol: We are making our last trip to Cuba to help supply our friends with medicine and money to buy pigs and chicken boxes to feed the church."
             ]
         }
