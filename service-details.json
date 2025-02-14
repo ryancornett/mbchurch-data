@@ -1,13 +1,13 @@
 {
-    "date": "2/9/2025",
+    "date": "2/16/2025",
     "details": {
-        "openingScripture": "Daniel 2:20b-23a",
-        "callToWorship": "All Hail the Power of Jesus' Name #202",
-        "fellowshipSong": "Jesus Shall Reign #587",
+        "openingScripture": "Haggai 1",
+        "callToWorship": "Soon and Very Soon #192",
+        "fellowshipSong": "All Creatures of Our God and King #027",
         "nextSongIsExultation": true,
-        "song": "There Is a Fountain #142",
-        "responsiveReading": "Isaiah 40:28-31",
-        "songOfAdoration": "Holy, Holy, Holy #002",
+        "song": "At the Cross #139",
+        "responsiveReading": "Zephaniah 3:14-17",
+        "songOfAdoration": "How Great Thou Art #010",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,15 +15,15 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Jesus, Keep Me Near the Cross #280",
+        "songOfResponse": "Just a Closer Walk with Thee #448",
         "theLordsSupper": false,
         "closing": "Psalm 7:17 (paraphrase in meter)",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "February memory verse: 2 Corinthians 13:11 ESV.",
-                "The 4th annual Chili Cook-Off is Sunday, February 09. Sign up to bring something in the foyer!",
-                "The Valentine Banquet is Wednesday, February 12 at 6:00 PM. The church will provide the meat; attendees will provide sides and desserts.",
+                "MBC’s spring-cleaning workday is Saturday, April 12 from 10:00-2:00.",
+                "Visit manchesterbaptistchurch.org and click Online Giving to give securely with your card or PayPal account.",
                 "From Carol: We are making our last trip to Cuba to help supply our friends with medicine and money to buy pigs and chicken boxes to feed the church."
             ]
         }
