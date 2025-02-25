@@ -1,13 +1,13 @@
 {
-    "date": "2/16/2025",
+    "date": "3/2/2025",
     "details": {
-        "openingScripture": "Haggai 1",
-        "callToWorship": "Soon and Very Soon #192",
-        "fellowshipSong": "All Creatures of Our God and King #027",
+        "openingScripture": "Ecclesiastes 12:11-14",
+        "callToWorship": "Greater Is He That Is in Me #006",
+        "fellowshipSong": "I Am Resolved #301",
         "nextSongIsExultation": true,
-        "song": "At the Cross #139",
-        "responsiveReading": "Zephaniah 3:14-17",
-        "songOfAdoration": "How Great Thou Art #010",
+        "song": "Bless the Lord, O My Soul",
+        "responsiveReading": "2 Corinthians 5:17-21",
+        "songOfAdoration": "His Mercy Is More",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,16 +15,15 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Just a Closer Walk with Thee #448",
-        "theLordsSupper": false,
-        "closing": "Psalm 7:17 (paraphrase in meter)",
+        "songOfResponse": "Before the Throne of God Above",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "February memory verse: 2 Corinthians 13:11 ESV.",
+                "March memory verse: Romans 12:2 ESV.",
                 "MBC’s spring-cleaning workday is Saturday, April 12 from 10:00-2:00.",
-                "Visit manchesterbaptistchurch.org and click Online Giving to give securely with your card or PayPal account.",
-                "From Carol: We are making our last trip to Cuba to help supply our friends with medicine and money to buy pigs and chicken boxes to feed the church."
+                "From Carol: We are making our last trip to Cuba near the end of March to help supply our friends with medicine and money to buy pigs and chicken boxes to feed the church."
             ]
         }
     }
