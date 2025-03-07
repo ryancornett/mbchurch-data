@@ -1,13 +1,13 @@
 {
-    "date": "3/2/2025",
+    "date": "3/9/2025",
     "details": {
-        "openingScripture": "Ecclesiastes 12:11-14",
-        "callToWorship": "Greater Is He That Is in Me #437",
-        "fellowshipSong": "I Am Resolved #301",
+        "openingScripture": "Psalm 3",
+        "callToWorship": "This Is the Day #359",
+        "fellowshipSong": "Revive Us Again #469",
         "nextSongIsExultation": true,
-        "song": "Bless the Lord, O My Soul",
-        "responsiveReading": "2 Corinthians 5:17-21",
-        "songOfAdoration": "His Mercy Is More",
+        "song": "Take Time to Be Holy #446",
+        "responsiveReading": "Proverbs 1:20-29",
+        "songOfAdoration": "Leaning on the Everlasting Arms #333",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,9 +15,9 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Before the Throne of God Above",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie",
+        "songOfResponse": "When I Survey the Wondrous Cross #144",
+        "theLordsSupper": false,
+        "closing": "Psalm 7:17 (FOUNDATION)",
         "announcements": {
             "isPopulated": true,
             "list": [
