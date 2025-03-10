@@ -1,13 +1,13 @@
 {
-    "date": "3/9/2025",
+    "date": "3/16/2025",
     "details": {
-        "openingScripture": "Psalm 3",
-        "callToWorship": "This Is the Day #359",
-        "fellowshipSong": "Revive Us Again #469",
+        "openingScripture": "Psalm 4",
+        "callToWorship": "To God Be the Glory #004",
+        "fellowshipSong": "At Calvary #138",
         "nextSongIsExultation": true,
-        "song": "Take Time to Be Holy #446",
-        "responsiveReading": "Proverbs 1:20-29",
-        "songOfAdoration": "Leaning on the Everlasting Arms #333",
+        "song": "Send the Light #595",
+        "responsiveReading": "Proverbs 2:1-8",
+        "songOfAdoration": "In Christ Alone",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,14 +15,13 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "When I Survey the Wondrous Cross #144",
+        "songOfResponse": "Wherever He Leads I'll Go #285",
         "theLordsSupper": false,
         "closing": "Psalm 7:17 (FOUNDATION)",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "March memory verse: Romans 12:2 ESV.",
-                "The Watkins and Sizemore families invite you to join them for a household shower in celebration of the future marriage of their children, Sophie and John, on March 15 at 2:00 PM at the Greenbrier Community Center. The couple will be married in a private ceremony on May 9, 2025, in Tuscany, Italy.",
                 "MBC’s spring-cleaning workday is Saturday, April 12 from 10:00-2:00.",
                 "From Carol: We are making our last trip to Cuba near the end of March to help supply our friends with medicine and money to buy pigs and chicken boxes to feed the church."
             ]
