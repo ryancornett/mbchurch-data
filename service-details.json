@@ -1,13 +1,13 @@
 {
-    "date": "3/16/2025",
+    "date": "4/6/2025",
     "details": {
-        "openingScripture": "Psalm 4",
-        "callToWorship": "To God Be the Glory #004",
-        "fellowshipSong": "At Calvary #138",
+        "openingScripture": "Psalm 6",
+        "callToWorship": "Come, Christians, Join to Sing #231",
+        "fellowshipSong": "There Shall Be Showers of Blessing #467",
         "nextSongIsExultation": true,
-        "song": "Send the Light #595",
-        "responsiveReading": "Proverbs 2:1-8",
-        "songOfAdoration": "In Christ Alone",
+        "song": "Higher Ground #484",
+        "responsiveReading": "Proverbs 3:7-10",
+        "songOfAdoration": "O Worship the King #016",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,15 +15,16 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Wherever He Leads I'll Go #285",
-        "theLordsSupper": false,
-        "closing": "Psalm 7:17 (FOUNDATION)",
+        "songOfResponse": "I Surrender All #275",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "March memory verse: Romans 12:2 ESV.",
-                "MBC’s spring-cleaning workday is Saturday, April 12 from 10:00-2:00.",
-                "From Carol: We are making our last trip to Cuba near the end of March to help supply our friends with medicine and money to buy pigs and chicken boxes to feed the church."
+                "April memory verse: Proverbs 30:5 ESV.",
+                "Choir Practice resumes tonight following the evening service.",
+                "MBC’s spring-cleaning workday is this Saturday, April 12 from 10:00-2:00.",
+                "Vacation Bible School—AiG’s Wonder Junction—is June 15-19."
             ]
         }
     }
