@@ -1,13 +1,13 @@
 {
     "date": "4/13/2025",
     "details": {
-        "openingScripture": "Psalm 6",
-        "callToWorship": "Come, Christians, Join to Sing #231",
-        "fellowshipSong": "There Shall Be Showers of Blessing #467",
-        "nextSongIsExultation": true,
-        "song": "Higher Ground #484",
-        "responsiveReading": "Proverbs 3:7-10",
-        "songOfAdoration": "O Worship the King #016",
+        "openingScripture": "Psalm 7:1-7",
+        "callToWorship": "The Bond of Love #384",
+        "fellowshipSong": "Wonderful Words of Life #261",
+        "nextSongIsExultation": false,
+        "song": "Sweet Hour of Prayer #445",
+        "responsiveReading": "Q3 | Psalm 19:1-2",
+        "songOfAdoration": "And Can It Be #147",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,15 +15,15 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "I Surrender All #275",
+        "songOfResponse": "Only Trust Him #317",
         "theLordsSupper": true,
         "closing": "Blest Be the Tie",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "April memory verse: Proverbs 30:5 ESV.",
+                "This month's charity fund offering will go toward the remainder of Carl Hoskins’ funeral expenses.",
                 "Choir Practice tonight at 5:30.",
-                "We will take up a special offering at the end of the service to help with the remainder of Carl Hoskins’ funeral expenses.",
                 "Vacation Bible School—AiG’s Wonder Junction—is June 15-19."
             ]
         }
