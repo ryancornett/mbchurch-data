@@ -1,30 +1,29 @@
 {
-    "date": "4/13/2025",
+    "date": "4/20/2025",
     "details": {
-        "openingScripture": "Psalm 7:1-7",
-        "callToWorship": "The Bond of Love #384",
-        "fellowshipSong": "Wonderful Words of Life #261",
-        "nextSongIsExultation": false,
-        "song": "Sweet Hour of Prayer #445",
-        "responsiveReading": "Q3 | Psalm 19:1-2",
-        "songOfAdoration": "And Can It Be #147",
+        "openingScripture": "Psalm 7:8-17",
+        "callToWorship": "Crown Him with Many Crowns #161",
+        "fellowshipSong": "The Lily of the Valley #189",
+        "nextSongIsExultation": true,
+        "song": "Victory in Jesus #426",
+        "responsiveReading": "1 Corinthians 15:19-23",
+        "songOfAdoration": "Low in the Grave He Lay #160",
         "specialMusic": {
-            "isScheduled": false,
-            "provider": "",
-            "title": ""
+            "isScheduled": true,
+            "provider": "MBC Choir",
+            "title": "Christ the Lord Is Risen Today #159"
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Only Trust Him #317",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie",
+        "songOfResponse": "Turn Your Eyes Upon Jesus #320",
+        "theLordsSupper": false,
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "April memory verse: Proverbs 30:5 ESV.",
-                "This month's charity fund offering will go toward the remainder of Carl Hoskins’ funeral expenses.",
-                "Choir Practice tonight at 5:30.",
-                "Vacation Bible School—AiG’s Wonder Junction—is June 15-19."
+                "Caleb Collins’ memorial service will be held Saturday, April 26 at 2:00 in the sanctuary with a fellowship meal immediately following.",
+                "Vacation Bible School—AiG’s Wonder Junction—is June 15-18. We will have a brief organizational meeting following next week’s morning worship service."
             ]
         }
     }
