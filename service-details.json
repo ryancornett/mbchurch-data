@@ -1,29 +1,28 @@
 {
-    "date": "4/20/2025",
+    "date": "4/27/2025",
     "details": {
-        "openingScripture": "Psalm 7:8-17",
-        "callToWorship": "Crown Him with Many Crowns #161",
-        "fellowshipSong": "The Lily of the Valley #189",
+        "openingScripture": "Psalm 8",
+        "callToWorship": "We Will Glorify #213",
+        "fellowshipSong": "When the Roll Is Called Up Yonder #516",
         "nextSongIsExultation": true,
-        "song": "Victory in Jesus #426",
-        "responsiveReading": "1 Corinthians 15:19-23",
-        "songOfAdoration": "Low in the Grave He Lay #160",
+        "song": "Jesus Shall Reign #587",
+        "responsiveReading": "Q4-Q5 | 2 Timothy 3:16-17",
+        "songOfAdoration": "The Solid Rock #406",
         "specialMusic": {
-            "isScheduled": true,
-            "provider": "MBC Choir",
-            "title": "Christ the Lord Is Risen Today #159"
+            "isScheduled": false,
+            "provider": "",
+            "title": ""
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Turn Your Eyes Upon Jesus #320",
+        "songOfResponse": "Grace Greater than Our Sin #329",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "April memory verse: Proverbs 30:5 ESV.",
-                "Caleb Collins’ memorial service will be held Saturday, April 26 at 2:00 in the sanctuary with a fellowship meal immediately following.",
-                "Vacation Bible School—AiG’s Wonder Junction—is June 15-18. We will have a brief organizational meeting following next week’s morning worship service."
+                "Vacation Bible School—AiG’s Wonder Junction—is June 15-18. We will have a brief organizational meeting following the morning worship service."
             ]
         }
     }
