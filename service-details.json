@@ -1,13 +1,13 @@
 {
-    "date": "4/27/2025",
+    "date": "5/4/2025",
     "details": {
-        "openingScripture": "Psalm 8",
-        "callToWorship": "We Will Glorify #213",
-        "fellowshipSong": "When the Roll Is Called Up Yonder #516",
+        "openingScripture": "Psalm 9:1-12",
+        "callToWorship": "Glorify Thy Name #213",
+        "fellowshipSong": "Praise, My Soul, the King of Heaven REGENT SQUARE",
         "nextSongIsExultation": true,
-        "song": "Jesus Shall Reign #587",
-        "responsiveReading": "Q4-Q5 | 2 Timothy 3:16-17",
-        "songOfAdoration": "The Solid Rock #406",
+        "song": "What a Friend We Have in Jesus #182",
+        "responsiveReading": "Q6 | Psalm 119:104-105  ",
+        "songOfAdoration": "My Jesus, I Love Thee #210",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,14 +15,19 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "TBA",
-        "songOfResponse": "Grace Greater than Our Sin #329",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "songOfResponse": "Come, Ye Sinners, Poor and Needy #323",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "April memory verse: Proverbs 30:5 ESV.",
-                "Vacation Bible School—AiG’s Wonder Junction—is June 15-18. We will have a brief organizational meeting following the morning worship service."
+                "May memory verse: Ephesians 4:32 BSB",
+                "May 11: Mother’s Day",
+                "May 18: Evening service at Rawlings-Stinson Park",
+                "May 25: Quarterly business meeting",
+                "June 1: Evening service at Rawlings-Stinson Park",
+                "June 7: VBS decorating 10:00 – 2:00",
+                "June 15-18: Wonder Junction VBS! The sign-up sheet is in the foyer."
             ]
         }
     }
