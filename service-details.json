@@ -1,30 +1,27 @@
 {
-    "date": "5/25/2025",
+    "date": "6/1/2025",
     "details": {
-        "openingScripture": "Psalm 11",
-        "callToWorship": "The Doxology #253",
-        "fellowshipSong": "A Mighty Fortress Is Our God #008",
+        "openingScripture": "Psalm 12",
+        "callToWorship": "Soon and Very Soon #192",
+        "fellowshipSong": "How Great Thou Art #010",
         "nextSongIsExultation": true,
-        "song": "We Have Heard the Joyful Sound #581",
-        "responsiveReading": "Q10-11 | Daniel 4:35a",
-        "songOfAdoration": "Tis So Sweet to Trust in Jesus",
+        "song": "Surely Goodness and Mercy #422",
+        "responsiveReading": "Q12 | Genesis 1:31; 2:1-2",
+        "songOfAdoration": "Jesus Shall Reign #587",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
-        "sermonTitle": "Pure Religion",
-        "sermonText": "James 1:27",
-        "songOfResponse": "Whiter Than Snow #325",
+        "sermonTitle": "N/A",
+        "sermonText": "N/A",
+        "songOfResponse": "Rock of Ages, Cleft for Me #342",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "May memory verse: Ephesians 4:32 BSB",
-                "Today is Senior Sunday!",
-                "May 29: Clay County Days Parade public evangelism",
-                "June 1: Evening service at Rawlings-Stinson Park",
+                "Tonight’s service is at Rawlings-Stinson Park at 6:00 PM.",
                 "June 7: VBS decorating 10:00 – 2:00",
                 "June 8 Quarterly business meeting",
                 "June 15-18: Wonder Junction VBS! The sign-up sheet is in the foyer."
