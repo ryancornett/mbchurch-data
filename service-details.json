@@ -1,31 +1,29 @@
 {
-    "date": "6/1/2025",
+    "date": "6/15/2025",
     "details": {
-        "openingScripture": "Psalm 12",
-        "callToWorship": "Soon and Very Soon #192",
-        "fellowshipSong": "How Great Thou Art #010",
+        "openingScripture": "Psalm 14",
+        "callToWorship": "Majesty #215",
+        "fellowshipSong": "Lead On, O King Eternal #621",
         "nextSongIsExultation": true,
-        "song": "Surely Goodness and Mercy #422",
-        "responsiveReading": "Q12 | Genesis 1:31; 2:1-2",
-        "songOfAdoration": "Jesus Shall Reign #587",
+        "song": "Because He Lives #407",
+        "responsiveReading": "Q14 | Psalm 104:24",
+        "songOfAdoration": "At the Cross #139",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
-        "sermonTitle": "Who Shall Ascend the Hill of the Lord?",
-        "sermonText": "Psalm 24",
-        "songOfResponse": "Rock of Ages, Cleft for Me #342",
+        "sermonTitle": "Storms",
+        "sermonText": "Jonah 1:17",
+        "songOfResponse": "Just a Closer Walk with Thee #448",
         "theLordsSupper": false,
-        "closing": "Blest Be the Tie #387",
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "June memory verse – Philippians 4:12-13 BSB",
-                "The 6/1/2025 evening service is at Rawlings-Stinson Park at 6:00 PM.",
-                "June 7: VBS decorating 10:00 – 2:00",
-                "June 8 Quarterly business meeting",
-                "June 15-18: Wonder Junction VBS! The sign-up sheet is in the foyer."
+                "Wonder Junction VBS begins tonight! Please be here by 5:30 to help register and supervise children.",
+                "We will host the CRMA Fall Retreat October 10-11. Men, you can register at thecrma.com/events."
             ]
         }
     }
