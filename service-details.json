@@ -1,27 +1,28 @@
 {
-    "date": "7/6/2025",
+    "date": "7/13/2025",
     "details": {
-        "openingScripture": "Psalm 17:1-7",
-        "callToWorship": "Greater Is He That Is in Me #437",
-        "fellowshipSong": "I Am Resolved #301",
+        "openingScripture": "Psalm 17:8-15",
+        "callToWorship": "This Is the Day #359",
+        "fellowshipSong": "Blessed Assurance #334",
         "nextSongIsExultation": true,
-        "song": "There Is Power in the Blood #132",
-        "responsiveReading": "Q17 | Galatians 5:19-21",
-        "songOfAdoration": "This Is My Father's World #043",
+        "song": "There's a Land that Is Fairer Than Day #515",
+        "responsiveReading": "Q18 & 19 | 1 Corinthians 15:21-22",
+        "songOfAdoration": "I'd Rather Have Jesus #550",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
         "sermonTitle": "N/A",
-        "sermonText": "Jonah 4:1-",
-        "songOfResponse": "O Love That Wilt Not Let Me Go #292",
+        "sermonText": "Jonah 4:5-",
+        "songOfResponse": "Speak to My Heart #281",
         "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "July memory verse – James 1:5 BSB",
+                "Women on Mission will meet tomorrow at 6:00 PM in the Lewis Fellowship Hall. Anna Collins will present the program, and Anna & Lisa Thomas will provide the food.",
                 "MBC will host the CRMA Fall Retreat October 10-11. Men, you can register at thecrma.com/events. If you are willing to host one or more of the CRMA organizers or speakers in your home for two nights, please let Ryan know."
             ]
         }
