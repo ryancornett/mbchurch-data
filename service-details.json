@@ -1,29 +1,29 @@
 {
-    "date": "7/20/2025",
+    "date": "7/27/2025",
     "details": {
-        "openingScripture": "Psalm 18:1-19",
-        "callToWorship": "Brethren, We Have Met to Worship #379",
-        "fellowshipSong": "Down at the Cross #140",
+        "openingScripture": "Psalm 18:20-30",
+        "callToWorship": "His Name Is Wonderful #203",
+        "fellowshipSong": "I Will Sing the Wondrous Story #537",
         "nextSongIsExultation": true,
-        "song": "Bless the Lord, O My Soul",
-        "responsiveReading": "Q20 | Romans 5:12-14",
-        "songOfAdoration": "I Stand Amazed in the Presence #547",
+        "song": "Stand Up, Stand Up for Jesus #485",
+        "responsiveReading": "Q21 | James 1:14-15",
+        "songOfAdoration": "The Old Rugged Cross #141",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
-        "sermonTitle": "How God Works",
-        "sermonText": "Jonah 4:5-11",
-        "songOfResponse": "Before the Throne of God Above",
+        "sermonTitle": "TBA",
+        "sermonText": "Revelation 1",
+        "songOfResponse": "Without Him #300",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "July memory verse – James 1:5 BSB",
-                "We will share details about the church picnic, to be held at the Deaton’s farm, as soon as possible.",
-                "MBC will host the CRMA Fall Retreat October 10-11. Men, you can register at thecrma.com/events. If you are willing to host one or more of the CRMA organizers or speakers in your home for two nights, please let Ryan know."
+                "The Sunday School Picnic is tonight at 6:00 PM at the Deaton’s barn. We will have smoked brisket and pork. Please bring sides and desserts.",
+                "If you missed signing up for the prayer chain last week, you can still sign up on the sheet in the foyer."
             ]
         }
     }
