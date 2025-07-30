@@ -1,13 +1,13 @@
 {
-    "date": "7/27/2025",
+    "date": "8/3/2025",
     "details": {
-        "openingScripture": "Psalm 18:20-30",
-        "callToWorship": "His Name Is Wonderful #203",
-        "fellowshipSong": "I Will Sing the Wondrous Story #537",
+        "openingScripture": "Psalm 18:31-50",
+        "callToWorship": "Worthy of Worship #003",
+        "fellowshipSong": "I Love to Tell the Story #572",
         "nextSongIsExultation": true,
-        "song": "Stand Up, Stand Up for Jesus #485",
-        "responsiveReading": "Q21 | James 1:14-15",
-        "songOfAdoration": "The Old Rugged Cross #141",
+        "song": "He Hideth My Soul #340",
+        "responsiveReading": "Q22-23 | Ephesians 1:4-6",
+        "songOfAdoration": "Send a Great Revival #466",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,15 +15,16 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "Revelation 1",
-        "songOfResponse": "Without Him #300",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "songOfResponse": "Just As I Am #307",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "July memory verse – James 1:5 BSB",
-                "The Sunday School Picnic is tonight at 6:00 PM at the Deaton’s barn. We will have smoked brisket and pork. Please bring sides and desserts.",
-                "If you missed signing up for the prayer chain last week, you can still sign up on the sheet in the foyer.",
+                "August memory verse – 1 John 3:2 BSB: Beloved, we are now children of God, and what we will be has not yet been revealed. We know that when Christ appears, we will be like Him, for we will see Him as He is.",
+                "Choir practice resumes this evening at 5:30 PM.",
+                "Women on Mission will meet on Monday August 11 at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program. Ann Deaton will provide the food. All women are encouraged to attend.",
+                "You can still sign up for the prayer chain; the sheet in the foyer.",
                 "There is a box in the foyer for dropping in any questions you have about the book of Revelation or other relevant topics (in case you don’t want to ask aloud during the Q&A). You can also submit a question at reformed.link/mbcquestions"
             ]
         }
