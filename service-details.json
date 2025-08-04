@@ -1,30 +1,29 @@
 {
-    "date": "8/3/2025",
+    "date": "8/10/2025",
     "details": {
-        "openingScripture": "Psalm 18:31-50",
-        "callToWorship": "Worthy of Worship #003",
-        "fellowshipSong": "I Love to Tell the Story #572",
+        "openingScripture": "Psalm 19:1-6",
+        "callToWorship": "We're Marching to Zion #524",
+        "fellowshipSong": "Heavenly Sunlight #424",
         "nextSongIsExultation": true,
-        "song": "He Hideth My Soul #340",
-        "responsiveReading": "Q22-23 | Ephesians 1:4-6",
-        "songOfAdoration": "Send a Great Revival #466",
+        "song": "He Keeps Me Singing #425",
+        "responsiveReading": "Q24 | John 1:12-14",
+        "songOfAdoration": "Great Is Thy Faithfulness #054",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
         "sermonTitle": "TBA",
-        "sermonText": "Revelation 1",
-        "songOfResponse": "Just As I Am #307",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "sermonText": "Revelation 1:9-",
+        "songOfResponse": "I Am Thine, O Lord #290",
+        "theLordsSupper": false,
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "August memory verse – 1 John 3:2 BSB: Beloved, we are now children of God, and what we will be has not yet been revealed. We know that when Christ appears, we will be like Him, for we will see Him as He is.",
-                "Choir practice resumes this evening at 5:30 PM.",
-                "Women on Mission will meet on Monday August 11 at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program. Ann Deaton will provide the food. All women are encouraged to attend.",
-                "You can still sign up for the prayer chain; the sheet in the foyer.",
+                "Choir practice is this evening at 5:30 PM.",
+                "Women on Mission will meet on Monday, August 11 at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program. Ann Deaton will provide the food. All women are encouraged to attend.",
                 "There is a box in the foyer for dropping in any questions you have about the book of Revelation or other relevant topics (in case you don’t want to ask aloud during the Q&A). You can also submit a question at reformed.link/mbcquestions"
             ]
         }
