@@ -1,30 +1,33 @@
 {
-    "date": "8/10/2025",
+    "date": "8/17/2025",
     "details": {
-        "openingScripture": "Psalm 19:1-6",
-        "callToWorship": "We're Marching to Zion #524",
-        "fellowshipSong": "Heavenly Sunlight #424",
+        "openingScripture": "Psalm 19:7-14",
+        "callToWorship": "Majesty #215",
+        "fellowshipSong": "At the Cross #139",
         "nextSongIsExultation": true,
-        "song": "He Keeps Me Singing #425",
-        "responsiveReading": "Q24 | John 1:12-14",
-        "songOfAdoration": "Great Is Thy Faithfulness #054",
+        "song": "Lead On, O King Eternal #6215",
+        "responsiveReading": "Q25 | Hebrews 4:14-15",
+        "songOfAdoration": "Because He Lives #407",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
         "sermonTitle": "TBA",
-        "sermonText": "Revelation 1:9-",
-        "songOfResponse": "I Am Thine, O Lord #290",
+        "sermonText": "Revelation 1:21-",
+        "songOfResponse": "Just a Closer Walk with Thee #448",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "August memory verse – 1 John 3:2 BSB: Beloved, we are now children of God, and what we will be has not yet been revealed. We know that when Christ appears, we will be like Him, for we will see Him as He is.",
-                "Choir practice is this evening at 5:30 PM.",
-                "Women on Mission will meet on Monday, August 11 at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program. Ann Deaton will provide the food. All women are encouraged to attend.",
-                "We will once again pass out free water and tracts at the Manchester Music Festival on August 29 and 30 from 2:00-6:00 PM. It’s a great opportunity to bless people and have share the Gospel.",
+                "August 17: Choir practice at 5:30 PM.",
+                "August 23: Men’s Group, 8:00-10:00 AM in the fellowship hall.",
+                "August 29 & 30: Passing out free water and tracts at the Manchester Music Festival, 2:00-6:00 PM.",
+                "August 31: Ice cream social following the evening service.",
+                "September 21; October 5 & 19: Services at the park.",
+                "October 10-11: We are hosting the CRMA Retreat "Unity, Salvation, Sanctification.",
                 "There is a box in the foyer for dropping in any questions you have about the book of Revelation or other relevant topics (in case you don’t want to ask aloud during the Q&A). You can also submit a question at reformed.link/mbcquestions"
             ]
         }
