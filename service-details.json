@@ -1,23 +1,23 @@
 {
-    "date": "8/31/2025",
+    "date": "9/7/2025",
     "details": {
-        "openingScripture": "Psalm 21:1-7",
-        "callToWorship": "Immortal, Invisible, God Only Wise #006",
-        "fellowshipSong": "All Creatures of Our God and King #027",
+        "openingScripture": "Psalm 21:8-13",
+        "callToWorship": "To God Be the Glory #004",
+        "fellowshipSong": "Rescue the Perishing #559",
         "nextSongIsExultation": true,
-        "song": "Leaning on the Everlasting Arms #333",
-        "responsiveReading": "Q27 | John 15:14-15",
-        "songOfAdoration": "We've a Story to Tell #586",
+        "song": "Revive Us Again #469",
+        "responsiveReading": "Q28 | Hebrews 9:13-14",
+        "songOfAdoration": "His Mercy Is More",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
         "sermonTitle": "TBA",
-        "sermonText": "Revelation 2:12-",
-        "songOfResponse": "Freely, Freely #273",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "sermonText": "Revelation 2:18-",
+        "songOfResponse": "When I Survey the Wondrous Cross #144",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
