@@ -1,31 +1,32 @@
 {
-    "date": "9/7/2025",
+    "date": "9/14/2025",
     "details": {
-        "openingScripture": "Psalm 21:8-13",
-        "callToWorship": "To God Be the Glory #004",
-        "fellowshipSong": "Rescue the Perishing #559",
+        "openingScripture": "Psalm 22:14-31",
+        "callToWorship": "The Family of God #386",
+        "fellowshipSong": "Victory in Jesus #426",
         "nextSongIsExultation": true,
-        "song": "Revive Us Again #469",
-        "responsiveReading": "Q28 | Hebrews 9:13-14",
-        "songOfAdoration": "His Mercy Is More",
+        "song": "Jesus Shall Reign #587",
+        "responsiveReading": "Q29 | Psalm 110:1-2",
+        "songOfAdoration": "Crown Him with Many Crowns #161",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
             "title": ""
             },
-        "sermonTitle": "TBA",
-        "sermonText": "Revelation 2:18-",
-        "songOfResponse": "When I Survey the Wondrous Cross #144",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "sermonTitle": "Sardis: TBA",
+        "sermonText": "Revelation 3:1-6",
+        "songOfResponse": "Turn Your Eyes Upon Jesus #320",
+        "theLordsSupper": false,
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
+                "There will be a brief organizational meeting for the youth program following the morning service.",
                 "Choir practice Sunday evening at 5:30 PM.",
                 "We are accepting donations for the Christmas Shoeboxes. The goal is to send 150.",
-                "September 7: Quarterly business meeting following the evening service.",
-                "September 27: Men’s Discipleship Group meeting at Mark Deaton’s at 8:00 AM.",
+                "The Eliza Broadus state mission offering goal is $2500 and will run till the end of the month. Envelopes are in the back of each pew and prayer guides are in the foyer.",
                 "September 21 & October 12: Services at Rawlings-Stinson park.",
+                "September 27: Men’s Discipleship Group meeting at Mark Deaton’s at 8:00 AM.",
                 "October 10-11: We are hosting the CRMA Retreat 'Unity, Salvation, Sanctification.'"
             ]
         }
