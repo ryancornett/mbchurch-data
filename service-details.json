@@ -1,13 +1,13 @@
 {
-    "date": "9/21/2025",
+    "date": "9/28/2025",
     "details": {
-        "openingScripture": "Psalm 23",
-        "callToWorship": "Surely Goodness and Mercy #422",
-        "fellowshipSong": "Wonderful Grace of Jesus #328",
+        "openingScripture": "Psalm 24",
+        "callToWorship": "O, How I Love Jesus #217",
+        "fellowshipSong": "When We All Get to Heaven #514",
         "nextSongIsExultation": true,
-        "song": "In Christ Alone #506 (2008)",
-        "responsiveReading": "Q30 | Galatians 4:4-7",
-        "songOfAdoration": "I Know Whom I Have Believed #337",
+        "song": "Trust and Obey #447",
+        "responsiveReading": "Q31 | Acts 1:10-11",
+        "songOfAdoration": "At Calvary #138",
         "specialMusic": {
             "isScheduled": false,
             "provider": "",
@@ -15,16 +15,16 @@
             },
         "sermonTitle": "TBA",
         "sermonText": "Revelation 3:7-??",
-        "songOfResponse": "The Nail-Scarred Hand #318",
+        "songOfResponse": "Amazing Grace #330",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "There will be a brief follow-up meeting for the youth program following the morning service on 9/28. ",
+                "There will be a brief follow-up meeting for the youth program following the service. ",
                 "We are accepting donations for the Christmas Shoeboxes. The goal is to send 150.",
                 "The Eliza Broadus state mission offering goal is $2500 and will run till the end of the month. Envelopes are in the back of each pew and prayer guides are in the foyer.",
-                "September 21 & October 12: Services at Rawlings-Stinson park.",
+                "October 12: Evening service at Rawlings-Stinson park.",
                 "September 27: Men’s Discipleship Group meeting at Mark Deaton’s at 8:00 AM.",
                 "October 10-11: We are hosting the CRMA Retreat 'Unity, Salvation, Sanctification.'"
             ]
