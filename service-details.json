@@ -1,32 +1,29 @@
 {
-    "date": "9/28/2025",
+    "date": "10/5/2025",
     "details": {
-        "openingScripture": "Psalm 24",
-        "callToWorship": "O, How I Love Jesus #217",
-        "fellowshipSong": "When We All Get to Heaven #514",
+        "openingScripture": "Psalm 25:1-10",
+        "callToWorship": "Rejoice in the Lord Always #433",
+        "fellowshipSong": "Count Your Blessings #644",
         "nextSongIsExultation": true,
-        "song": "Trust and Obey #447",
+        "song": "Jesus Paid It All #134",
         "responsiveReading": "Q31 | Acts 1:10-11",
-        "songOfAdoration": "At Calvary #138",
+        "songOfAdoration": "Because He Lives #407",
         "specialMusic": {
-            "isScheduled": false,
-            "provider": "",
-            "title": ""
+            "isScheduled": true,
+            "provider": "MBC Choir",
+            "title": "Christ, Our Abiding Cornerstone"
             },
-        "sermonTitle": "TBA",
-        "sermonText": "Revelation 3:7-??",
-        "songOfResponse": "Amazing Grace #330",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "sermonTitle": "The Church with a Little Power",
+        "sermonText": "Revelation 3:7-13",
+        "songOfResponse": "Have Thine Own Way, Lord #294",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "There will be a brief follow-up meeting for the youth program following the service. ",
                 "We are accepting donations for the Christmas Shoeboxes. The goal is to send 150.",
-                "The Eliza Broadus state mission offering goal is $2500 and will run till the end of the month. Envelopes are in the back of each pew and prayer guides are in the foyer.",
-                "October 12: Evening service at Rawlings-Stinson park.",
-                "September 27: Men’s Discipleship Group meeting at Mark Deaton’s at 8:00 AM.",
-                "October 10-11: We are hosting the CRMA Retreat 'Unity, Salvation, Sanctification.'"
+                "Friday and Saturday: We are hosting the CRMA Retreat \"Unity, Salvation, Sanctification.\" Register at thecrma.com/events.",
+                "Next Sunday: Evening service at the park.",
             ]
         }
     }
