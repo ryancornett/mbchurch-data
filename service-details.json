@@ -1,29 +1,29 @@
 {
-    "date": "10/5/2025",
+    "date": "10/26/2025",
     "details": {
-        "openingScripture": "Psalm 25:1-10",
-        "callToWorship": "Rejoice in the Lord Always #433",
-        "fellowshipSong": "Count Your Blessings #644",
+        "openingScripture": "Psalm 27:1-6",
+        "callToWorship": "Come, Christians, Join to Sing #231",
+        "fellowshipSong": "There Shall Be Showers of Blessing #467",
         "nextSongIsExultation": true,
-        "song": "Jesus Paid It All #134",
-        "responsiveReading": "Q31 | Acts 1:10-11",
-        "songOfAdoration": "Because He Lives #407",
+        "song": "A Mighty Fortress Is Our God #008",
+        "responsiveReading": "Q35 | Romans 8:29-30",
+        "songOfAdoration": "Take Time to Be Holy #446",
         "specialMusic": {
-            "isScheduled": true,
+            "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
-        "sermonTitle": "The Church with a Little Power",
-        "sermonText": "Revelation 3:7-13",
-        "songOfResponse": "Have Thine Own Way, Lord #294",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "sermonTitle": "Title TBA",
+        "sermonText": "Revelation 4",
+        "songOfResponse": "Wherever He Leads I'll Go #285",
+        "theLordsSupper": false,
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "We are accepting donations for the Christmas Shoeboxes. The goal is to send 150.",
-                "Friday and Saturday: We are hosting the CRMA Retreat 'Unity, Salvation, Sanctification.' Register at thecrma.com/events.",
-                "Next Sunday: Evening service at the park."
+                "October 25: Men's Discipleship Group meeting at Mark Deaton's garage at 8:00 AM.",
+                "November 1: Trick or Treat evangelism in front of Subway; set up at 5:30. Please donate candy!",
+                "We need people to serve! Let the elders know where God wants you to labor."
             ]
         }
     }
