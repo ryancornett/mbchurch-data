@@ -1,28 +1,30 @@
 {
-    "date": "10/26/2025",
+    "date": "11/02/2025",
     "details": {
-        "openingScripture": "Psalm 27:1-6",
-        "callToWorship": "Come, Christians, Join to Sing #231",
-        "fellowshipSong": "There Shall Be Showers of Blessing #467",
+        "openingScripture": "Psalm 27:7-14",
+        "callToWorship": "We Will Glorify #213",
+        "fellowshipSong": "When the Roll Is Called Up Yonder #516",
         "nextSongIsExultation": true,
-        "song": "A Mighty Fortress Is Our God #008",
-        "responsiveReading": "Q35 | Romans 8:29-30",
-        "songOfAdoration": "Take Time to Be Holy #446",
+        "song": "Christ, Our Abiding Cornerstone",
+        "responsiveReading": "Q36 | Psalm 32:1-2",
+        "songOfAdoration": "The Solid Rock #406",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
         "sermonTitle": "Title TBA",
-        "sermonText": "Revelation 4",
-        "songOfResponse": "Wherever He Leads I'll Go #285",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "sermonText": "Revelation 5:1-",
+        "songOfResponse": "I Surrender All #275",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "October 25: Men's Discipleship Group meeting at Mark Deaton's garage at 8:00 AM.",
-                "November 1: Trick or Treat evangelism in front of Subway; set up at 5:30. Please donate candy!",
+                "November 1: Trick or Treat evangelism in front of Subway; set up at 4:30 PM. Please donate candy!",
+                "November 8: The November Women on Mission meeting will be the luncheon at Greenbriar Presbyterian at 11:30 AM with guest speaker Chris Denman. See Linda Baker if you plan on attending.",
+                "November 22: Men's Discipleship Group meeting at Mark Deaton's garage at 8:00 AM.",
+                "The ladies Christmas party will be on Monday, December 8 at 6:00 PM at Ann Deaton’s garage. Please bring your favorite finger food and/or dessert. Also bring an ornament or Christmas decor item for the exchange game. All ladies are invited!",
                 "We need people to serve! Let the elders know where God wants you to labor."
             ]
         }
