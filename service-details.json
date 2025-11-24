@@ -1,31 +1,30 @@
 {
-    "date": "11/02/2025",
+    "date": "11/30/2025",
     "details": {
-        "openingScripture": "Psalm 27:7-14",
-        "callToWorship": "We Will Glorify #213",
-        "fellowshipSong": "When the Roll Is Called Up Yonder #516",
+        "openingScripture": "Psalm 30:6-12",
+        "callToWorship": "O for a Thousand Tongues to Sing #216",
+        "fellowshipSong": "I Will Sing of My Redeemer #575",
         "nextSongIsExultation": true,
-        "song": "Christ, Our Abiding Cornerstone",
-        "responsiveReading": "Q36 | Psalm 32:1-2",
-        "songOfAdoration": "The Solid Rock #406",
+        "song": "Heaven Came Down #438",
+        "responsiveReading": "Q40 | 2 Corinthians 5:6-9",
+        "songOfAdoration": "Footsteps of Jesus #483",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
         "sermonTitle": "Title TBA",
-        "sermonText": "Revelation 5:1-",
-        "songOfResponse": "I Surrender All #275",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "sermonText": "Revelation 6:9-",
+        "songOfResponse": "Come, Ye Sinners, Poor and Needy #323",
+        "theLordsSupper": false,
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "November 1: Trick or Treat evangelism in front of Subway; set up at 4:30 PM. Please donate candy!",
-                "November 8: The November Women on Mission meeting will be the luncheon at Greenbriar Presbyterian at 11:30 AM with guest speaker Chris Denman. See Linda Baker if you plan on attending.",
-                "November 22: Men's Discipleship Group meeting at Mark Deaton's garage at 8:00 AM.",
+                "The Lottie Moon Christmas Card drive has begun and will continue until Wednesday, December 17. If you want to send people in the church a card, please bring the cards and 78 cents per card to Mike Baker, Butch Grubb, or Brian Lewis.",
+                "Next Sunday evening: Quarterly business meeting.",
                 "The ladies Christmas party will be on Monday, December 8 at 6:00 PM at Ann Deaton’s garage. Please bring your favorite finger food and/or dessert. Also bring an ornament or Christmas decor item for the exchange game. All ladies are invited!",
-                "We need people to serve! Let the elders know where God wants you to labor."
+                "Frank Plessinger will teach a high school/college age Sunday School beginning in January."
             ]
         }
     }
