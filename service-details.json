@@ -1,28 +1,28 @@
 {
-    "date": "11/30/2025",
+    "date": "12/07/2025",
     "details": {
-        "openingScripture": "Psalm 30:6-12",
-        "callToWorship": "O for a Thousand Tongues to Sing #216",
-        "fellowshipSong": "I Will Sing of My Redeemer #575",
+        "openingScripture": "Luke 1:26-38",
+        "callToWorship": "O Come, O Come, Emmanuel #076",
+        "fellowshipSong": "Angels, from the Realms of Glory #094",
         "nextSongIsExultation": true,
-        "song": "Heaven Came Down #438",
-        "responsiveReading": "Q40 | 2 Corinthians 5:6-9",
-        "songOfAdoration": "Footsteps of Jesus #483",
+        "song": "Angels We Have Heard on High #100",
+        "responsiveReading": "Q41 | 1 John 3:1-2",
+        "songOfAdoration": "Joyful, Joyful, We Adore Thee #007",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
         "sermonTitle": "Title TBA",
-        "sermonText": "Revelation 6:9-",
-        "songOfResponse": "Come, Ye Sinners, Poor and Needy #323",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "sermonText": "Revelation 6:12-",
+        "songOfResponse": "Whiter Than Snow #325",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "The Lottie Moon Christmas Card drive has begun and will continue until Wednesday, December 17. If you want to send people in the church a card, please bring the cards and 78 cents per card to Mike Baker, Butch Grubb, or Brian Lewis.",
-                "Next Sunday evening: Quarterly business meeting.",
+                "The Lottie Moon Christmas Card drive continues until Wednesday, December 17. If you want to send people in the church a card, please bring the cards and 78 cents per card to Mike Baker, Butch Grubb, or Brian Lewis.",
+                "Sunday evening: Quarterly business meeting.",
                 "The ladies Christmas party will be on Monday, December 8 at 6:00 PM at Ann Deaton’s garage. Please bring your favorite finger food and/or dessert. Also bring an ornament or Christmas decor item for the exchange game. All ladies are invited!",
                 "Frank Plessinger will teach a high school/college age Sunday School beginning in January."
             ]
