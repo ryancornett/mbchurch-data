@@ -1,13 +1,13 @@
 {
-    "date": "12/07/2025",
+    "date": "12/14/2025",
     "details": {
-        "openingScripture": "Luke 1:26-38",
-        "callToWorship": "O Come, O Come, Emmanuel #076",
-        "fellowshipSong": "Angels, from the Realms of Glory #094",
+        "openingScripture": "Luke 1:39-55",
+        "callToWorship": "Infant Holy, Infant Lowly #106",
+        "fellowshipSong": "It Came upon the Midnight Clear #093",
         "nextSongIsExultation": true,
-        "song": "Angels We Have Heard on High #100",
-        "responsiveReading": "Q41 | 1 John 3:1-2",
-        "songOfAdoration": "Joyful, Joyful, We Adore Thee #007",
+        "song": "Joy to the World #087",
+        "responsiveReading": "Isaiah 9:6-7",
+        "songOfAdoration": "Good Christian Men, Rejoice #096",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
@@ -15,15 +15,13 @@
             },
         "sermonTitle": "Title TBA",
         "sermonText": "Revelation 6:12-",
-        "songOfResponse": "Whiter Than Snow #325",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "songOfResponse": "Precious Lord, Take My Hand #456",
+        "theLordsSupper": false,
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "The Lottie Moon Christmas Card drive continues until Wednesday, December 17. If you want to send people in the church a card, please bring the cards and 78 cents per card to Mike Baker, Butch Grubb, or Brian Lewis.",
-                "Sunday evening: Quarterly business meeting.",
-                "The ladies Christmas party will be on Monday, December 8 at 6:00 PM at Ann Deaton’s garage. Please bring your favorite finger food and/or dessert. Also bring an ornament or Christmas decor item for the exchange game. All ladies are invited!",
+                "The Lottie Moon Christmas Card drive ends Wednesday, Dec. 17! If you want to send people in the church a card, please bring the cards and 78 cents per card to Mike Baker, Butch Grubb, or Brian Lewis. An anonymous donor gave money to pay “postage” to help anyone in need who wants to send cards within the church.",
                 "Frank Plessinger will teach a high school/college age Sunday School beginning in January."
             ]
         }
