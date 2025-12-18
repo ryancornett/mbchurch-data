@@ -1,28 +1,27 @@
 {
-    "date": "12/14/2025",
+    "date": "12/21/2025",
     "details": {
-        "openingScripture": "Luke 1:39-55",
-        "callToWorship": "Infant Holy, Infant Lowly #106",
-        "fellowshipSong": "It Came upon the Midnight Clear #093",
+        "openingScripture": "Luke 2:1-14",
+        "callToWorship": "Go, Tell It on the Mountain #095",
+        "fellowshipSong": "O Little Town of Bethlehem #086",
         "nextSongIsExultation": true,
-        "song": "Joy to the World #087",
-        "responsiveReading": "Isaiah 9:6-7",
-        "songOfAdoration": "Good Christian Men, Rejoice #096",
+        "song": "O Come, All Ye Faithful #089",
+        "responsiveReading": "Micah 5:2, 4-5",
+        "songOfAdoration": "Hark! The Herald Angels Sing #088",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
-        "sermonTitle": "The Church Will Go through Great Tribulation",
-        "sermonText": "Revelation 7-",
-        "songOfResponse": "Precious Lord, Take My Hand #456",
+        "sermonTitle": "The Mystery of Christmas",
+        "sermonText": "Matthew 1:18-25",
+        "songOfResponse": "Silent Night, Holy Night #091",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "The Lottie Moon Christmas Card drive ends Wednesday, Dec. 17! If you want to send people in the church a card, please bring the cards and 78 cents per card to Mike Baker, Butch Grubb, or Brian Lewis. An anonymous donor gave money to pay “postage” to help anyone in need who wants to send cards within the church.",
-                "December 19: Youth movie night at 6:00 PM. The bus will run at 5:00.",
+                "December 24: No Wednesday night services.",
                 "Frank Plessinger will teach a high school/college age Sunday School beginning in January."
             ]
         }
