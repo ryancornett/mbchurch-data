@@ -1,28 +1,28 @@
 {
-    "date": "12/21/2025",
+    "date": "1/4/2026",
     "details": {
-        "openingScripture": "Luke 2:1-14",
-        "callToWorship": "Go, Tell It on the Mountain #095",
-        "fellowshipSong": "O Little Town of Bethlehem #086",
+        "openingScripture": "Psalm 32",
+        "callToWorship": "I Am Resolved #301",
+        "fellowshipSong": "I Must Tell Jesus #455",
         "nextSongIsExultation": true,
-        "song": "O Come, All Ye Faithful #089",
-        "responsiveReading": "Micah 5:2, 4-5",
-        "songOfAdoration": "Hark! The Herald Angels Sing #088",
+        "song": "We Have Heard the Joyful Sound #581",
+        "responsiveReading": "Q43 | Matthew 25:45-46",
+        "songOfAdoration": "What a Friend We Have in Jesus #182",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
-        "sermonTitle": "The Mystery of Christmas",
-        "sermonText": "Matthew 1:18-25",
-        "songOfResponse": "Silent Night, Holy Night #091",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "sermonTitle": "TBA",
+        "sermonText": "Revelation 8:1-",
+        "songOfResponse": "Lord, I'm Coming Home #309",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "December 24: No Wednesday night services.",
-                "Frank Plessinger will teach a high school/college age Sunday School beginning in January."
+                "January 4: Tonight we will read through 1 & 2 Thessalonians.",
+                "January 12: The Women on Mission will meet at 6:00 PM in the Lewis Fellowship Hall. Anna Collins will present the program & Linda Baker will provide the food. All women are invited and encouraged to attend."
             ]
         }
     }
