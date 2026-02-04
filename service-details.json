@@ -1,28 +1,26 @@
 {
-    "date": "1/25/2026",
+    "date": "2/8/2026",
     "details": {
-        "openingScripture": "Psalm 34:1-10",
-        "callToWorship": "All Hail the Power of Jesus' Name #202",
-        "fellowshipSong": "Bless that Wonderful Name #236",
-        "nextSongIsExultation": false,
-        "song": "I Must Tell Jesus #455",
-        "responsiveReading": "Q48-49 | 1 Peter 1:15-16",
-        "songOfAdoration": "Come Thou Fount #015",
+        "openingScripture": "Psalm 34:11-22",
+        "callToWorship": "He Keeps Me Singing #425",
+        "fellowshipSong": "Rescue the Perishing #559",
+        "nextSongIsExultation": true,
+        "song": "Wonderful Grace of Jesus #328",
+        "responsiveReading": "Q50-51 | 1 Chronicles 28:9",
+        "songOfAdoration": "Victory in Jesus #426",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
-        "sermonTitle": "The Witness of the Church Before Christ’s Second Coming",
-        "sermonText": "Revelation 11:1-14",
-        "songOfResponse": "Just As I Am #307",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "sermonTitle": "TBA",
+        "sermonText": "Revelation 11:15-",
+        "songOfResponse": "I Am Thine, O Lord #290",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "January 31: Men’s Discipleship Breakfast, 8:00 AM at Mark Deaton’s garage.",
-                "February 1: 5th annual chili cook-off. Please sign up to bring chili, cheese, crackers, desserts, etc.",
                 "February 10: Valentine Banquet at 6:00 PM in the Lewis Fellowship Hall. A signup sheet is in the foyer to get a head count.",
                 "March 28: Spring workday here at the church building from 10:00-2:00."
             ]
