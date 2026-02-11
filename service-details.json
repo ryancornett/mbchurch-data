@@ -1,27 +1,27 @@
 {
-    "date": "2/8/2026",
+    "date": "2/15/2026",
     "details": {
-        "openingScripture": "Psalm 34:11-22",
-        "callToWorship": "He Keeps Me Singing #425",
-        "fellowshipSong": "Rescue the Perishing #559",
+        "openingScripture": "Psalm 35:1-10",
+        "callToWorship": "Seek Ye First #478",
+        "fellowshipSong": "There Is Power in the Blood #132",
         "nextSongIsExultation": true,
-        "song": "Wonderful Grace of Jesus #328",
+        "song": "Blessed Assurance #334",
         "responsiveReading": "Q50-51 | 1 Chronicles 28:9",
-        "songOfAdoration": "Victory in Jesus #426",
+        "songOfAdoration": "The Lily of the Valley #189",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
         "sermonTitle": "TBA",
-        "sermonText": "Revelation 11:15-",
-        "songOfResponse": "I Am Thine, O Lord #290",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
+        "sermonText": "Revelation 12:1-",
+        "songOfResponse": "Have Thine Own Way, Lord #294",
+        "theLordsSupper": false,
+        "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "February 10: Valentine Banquet at 6:00 PM in the Lewis Fellowship Hall. A signup sheet is in the foyer to get a head count.",
+                "March 8: Fifth-annual chili cook-off and fellowship meal. Please sign up to bring chili, crackers, cheese, desserts, etc. in the foyer.,
                 "March 28: Spring workday here at the church building from 10:00-2:00."
             ]
         }
