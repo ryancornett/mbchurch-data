@@ -1,27 +1,29 @@
 {
-    "date": "2/15/2026",
+    "date": "3/1/2026",
     "details": {
-        "openingScripture": "Psalm 35:1-10",
-        "callToWorship": "Seek Ye First #478",
-        "fellowshipSong": "There Is Power in the Blood #132",
+        "openingScripture": "Psalm 36:5-12",
+        "callToWorship": "God Moves in a Mysterious Way #073",
+        "fellowshipSong": "Send a Great Revival #466",
         "nextSongIsExultation": true,
-        "song": "Blessed Assurance #334",
-        "responsiveReading": "Q50-51 | 1 Chronicles 28:9",
-        "songOfAdoration": "The Lily of the Valley #189",
+        "song": "I Will Sing the Wondrous Story #537",
+        "responsiveReading": "Q54 | 1 John 5:20-21",
+        "songOfAdoration": "Stand Up, Stand Up for Jesus #485",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
         "sermonTitle": "TBA",
-        "sermonText": "Revelation 12:1-",
-        "songOfResponse": "Have Thine Own Way, Lord #294",
-        "theLordsSupper": false,
+        "sermonText": "Revelation 13:1-",
+        "songOfResponse": "Without Him #300",
+        "theLordsSupper": true,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
+                "March 1: Quarterly business meeting following the evening service.",
                 "March 8: Fifth-annual chili cook-off and fellowship meal. Please sign up to bring chili, crackers, cheese, desserts, etc. in the foyer.",
+                "March 9: Women On Mission will meet at 6:00 PM in the Lewis Fellowship Hall. Barbara Hoskins will present the program, and Ann Deaton & Lisa Thomas will provide the food. All women are welcome.",
                 "March 28: Spring workday here at the church building from 10:00-2:00."
             ]
         }
