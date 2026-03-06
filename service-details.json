@@ -1,29 +1,29 @@
 {
-    "date": "3/1/2026",
+    "date": "3/8/2026",
     "details": {
-        "openingScripture": "Psalm 36:5-12",
-        "callToWorship": "God Moves in a Mysterious Way #073",
-        "fellowshipSong": "Send a Great Revival #466",
+        "openingScripture": "Psalm 37:1-9",
+        "callToWorship": "This Is the Day #359",
+        "fellowshipSong": "There's a Land that Is Fairer Than Day #515",
         "nextSongIsExultation": true,
-        "song": "I Will Sing the Wondrous Story #537",
-        "responsiveReading": "Q54 | 1 John 5:20-21",
-        "songOfAdoration": "Stand Up, Stand Up for Jesus #485",
+        "song": "Nothing but the Blood #135",
+        "responsiveReading": "Q55 | Acts 2:41-42",
+        "songOfAdoration": "I'd Rather Have Jesus #550",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
         "sermonTitle": "TBA",
-        "sermonText": "Revelation 13:1-",
-        "songOfResponse": "Without Him #300",
-        "theLordsSupper": true,
+        "sermonText": "Revelation 13:10-",
+        "songOfResponse": "Speak to My Heart #281",
+        "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "March 1: Quarterly business meeting following the evening service.",
-                "March 8: Fifth-annual chili cook-off and fellowship meal. Please sign up to bring chili, crackers, cheese, desserts, etc. in the foyer.",
+                "After the morning service: Our fifth annual chili cook-off."
                 "March 9: Women On Mission will meet at 6:00 PM in the Lewis Fellowship Hall. Barbara Hoskins will present the program, and Ann Deaton & Lisa Thomas will provide the food. All women are welcome.",
+                "March 15: VBS meeting following the morning service.",
                 "March 28: Spring workday here at the church building from 10:00-2:00."
             ]
         }
