@@ -1,21 +1,21 @@
 {
-    "date": "3/8/2026",
+    "date": "3/15/2026",
     "details": {
-        "openingScripture": "Psalm 37:1-9",
-        "callToWorship": "This Is the Day #359",
-        "fellowshipSong": "There's a Land that Is Fairer Than Day #515",
-        "nextSongIsExultation": true,
-        "song": "Nothing but the Blood #135",
-        "responsiveReading": "Q55 | Acts 2:41-42",
-        "songOfAdoration": "I'd Rather Have Jesus #550",
+        "openingScripture": "Psalm 37:10-17",
+        "callToWorship": "Brethren, We Have Met to Worship #379",
+        "fellowshipSong": "No, Not One #181",
+        "nextSongIsExultation": false,
+        "song": "Let Others See Jesus in You #571",
+        "responsiveReading": "Q56-57 | Exodus 34:13-14",
+        "songOfAdoration": "I Stand Amazed in the Presence #547",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
         "sermonTitle": "TBA",
-        "sermonText": "Revelation 13:10-",
-        "songOfResponse": "Speak to My Heart #281",
+        "sermonText": "TBA",
+        "songOfResponse": "The Old Rugged Cross #141",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
