@@ -1,29 +1,27 @@
 {
-    "date": "3/15/2026",
+    "date": "3/22/2026",
     "details": {
-        "openingScripture": "Psalm 37:10-17",
-        "callToWorship": "Brethren, We Have Met to Worship #379",
-        "fellowshipSong": "No, Not One #181",
-        "nextSongIsExultation": false,
-        "song": "Let Others See Jesus in You #571",
-        "responsiveReading": "Q56-57 | Exodus 34:13-14",
-        "songOfAdoration": "I Stand Amazed in the Presence #547",
+        "openingScripture": "Psalm 37:18-24",
+        "callToWorship": "Worthy of Worship #003",
+        "fellowshipSong": "I Love to Tell the Story #572",
+        "nextSongIsExultation": true,
+        "song": "We're Marching to Zion #524",
+        "responsiveReading": "Q58-59 | Deuteronomy 28:58-59",
+        "songOfAdoration": "He Hideth My Soul #340",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
-        "sermonTitle": "TBA",
+        "sermonTitle": "Preacher: Jonathan Herald",
         "sermonText": "TBA",
-        "songOfResponse": "The Old Rugged Cross #141",
+        "songOfResponse": "When I Survey the Wondrous Cross #144",
         "theLordsSupper": false,
         "closing": "Prayer",
         "announcements": {
             "isPopulated": true,
             "list": [
-                "After the morning service: Our fifth annual chili cook-off.",
-                "March 9: Women On Mission will meet at 6:00 PM in the Lewis Fellowship Hall. Barbara Hoskins will present the program, and Ann Deaton & Lisa Thomas will provide the food. All women are welcome.",
-                "March 15: VBS meeting following the morning service.",
+                "The Annie Armstrong Easter Offering goal is $2500.00. The offering envelopes are in the back of the pews.",
                 "March 28: Spring workday here at the church building from 10:00-2:00."
             ]
         }
