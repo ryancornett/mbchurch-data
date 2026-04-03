@@ -1,28 +1,30 @@
 {
-    "date": "3/22/2026",
+    "date": "4/5/2026",
     "details": {
-        "openingScripture": "Psalm 37:18-24",
-        "callToWorship": "Worthy of Worship #003",
-        "fellowshipSong": "I Love to Tell the Story #572",
+        "openingScripture": "Psalm 37:32-40",
+        "callToWorship": "Crown Him with Many Crowns #161",
+        "fellowshipSong": "Heavenly Sunlight #424",
         "nextSongIsExultation": true,
-        "song": "We're Marching to Zion #524",
-        "responsiveReading": "Q58-59 | Deuteronomy 28:58-59",
-        "songOfAdoration": "He Hideth My Soul #340",
+        "song": "Christ the Lord Is Risen Today #159",
+        "responsiveReading": "Q62 | Exodus 20:8-11",
+        "songOfAdoration": "Low in the Grave He Lay #160",
         "specialMusic": {
             "isScheduled": false,
             "provider": "MBC Choir",
             "title": "Christ, Our Abiding Cornerstone"
             },
-        "sermonTitle": "Preacher: Jonathan Herald",
-        "sermonText": "TBA",
-        "songOfResponse": "When I Survey the Wondrous Cross #144",
-        "theLordsSupper": false,
-        "closing": "Prayer",
+        "sermonTitle": "How to Find Jesus When All Hope Is Lost",
+        "sermonText": "John 20:1-18",
+        "songOfResponse": "Just a Closer Walk with Thee #448",
+        "theLordsSupper": true,
+        "closing": "Blest Be the Tie #387",
         "announcements": {
             "isPopulated": true,
             "list": [
                 "The Annie Armstrong Easter Offering goal is $2500.00. The offering envelopes are in the back of the pews.",
-                "March 28: Spring workday here at the church building from 10:00-2:00.",
+                "On the construction plan in the foyer are renovation options. Please write your preferred option on a piece of paper and drop it in the collection plate.",
+                "We will take up a special offering for the restroom remodel this morning. The current estimate is $30,000.",
+                "April 13: Women on Mission will meet at 6:00 PM. Linda Baker will present the program, and Barbara Hoskins will provide the food.",
                 "April 25: Men’s Discipleship Breakfast hosted by Mark Deaton."
             ]
         }
