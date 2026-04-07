@@ -4,13 +4,13 @@
     "openingScripture": "Psalm 38:12-22",
     "callToWorship": "His Name Is Wonderful #203",
     "fellowshipSong": "Wonderful Words of Life #261",
-    "songTypeEnum": [
-      { "exultation": "Song of Exultation" },
-      { "adoration": "Song of Adoration" },
-      { "supplication": "Song of Supplication" },
-      { "devotion": "Song of Devotion" },
-      { "psalm": "Psalm in Meter" }
-    ],
+    "songTypeEnum": { 
+      "exultation": "Song of Exultation",
+      "adoration": "Song of Adoration",
+      "supplication": "Song of Supplication",
+      "devotion": "Song of Devotion",
+      "psalm": "Psalm in Meter"
+    },
     "thirdSongType": "devotion",
     "thirdSong": "Lead On, O King Eternal #621",
     "responsiveReading": "Q63-64 | 1 Corinthians 16:1-2",
