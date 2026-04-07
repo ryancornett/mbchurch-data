@@ -1,32 +1,39 @@
 {
-    "date": "4/5/2026",
-    "details": {
-        "openingScripture": "Psalm 37:32-40",
-        "callToWorship": "Crown Him with Many Crowns #161",
-        "fellowshipSong": "Heavenly Sunlight #424",
-        "nextSongIsExultation": true,
-        "song": "Christ the Lord Is Risen Today #159",
-        "responsiveReading": "Q62 | Exodus 20:8-11",
-        "songOfAdoration": "Low in the Grave He Lay #160",
-        "specialMusic": {
-            "isScheduled": false,
-            "provider": "MBC Choir",
-            "title": "Christ, Our Abiding Cornerstone"
-            },
-        "sermonTitle": "How to Find Jesus When All Hope Is Lost",
-        "sermonText": "John 20:1-18",
-        "songOfResponse": "Just a Closer Walk with Thee #448",
-        "theLordsSupper": true,
-        "closing": "Blest Be the Tie #387",
-        "announcements": {
-            "isPopulated": true,
-            "list": [
-                "The Annie Armstrong Easter Offering goal is $2500.00. The offering envelopes are in the back of the pews.",
-                "On the construction plan in the foyer are renovation options. Please write your preferred option on a piece of paper and drop it in the collection plate.",
-                "We will take up a special offering for the restroom remodel this morning. The current estimate is $30,000.",
-                "April 13: Women on Mission will meet at 6:00 PM. Linda Baker will present the program, and Barbara Hoskins will provide the food.",
-                "April 25: Men’s Discipleship Breakfast hosted by Mark Deaton."
-            ]
-        }
+  "date": "4/12/2026",
+  "details": {
+    "openingScripture": "Psalm 38:12-22",
+    "callToWorship": "His Name Is Wonderful #203",
+    "fellowshipSong": "Wonderful Words of Life #261",
+    "songTypeEnum": [
+      { 1: "Song of Exultation" },
+      { 2: "Song of Adoration" },
+      { 3: "Song of Supplication" },
+      { 4: "Song of Devotion" },
+      { 5: "Psalm in Meter" }
+    ],
+    "nextSongIsExultation": true,
+    "song": "Lead On, O King Eternal #621",
+    "responsiveReading": "Q63-64 | 1 Corinthians 16:1-2",
+    "songOfAdoration": "My Jesus, I Love Thee #210",
+    "specialMusic": {
+      "isScheduled": false,
+      "provider": "MBC Choir",
+      "title": "Christ, Our Abiding Cornerstone"
+    },
+    "sermonTitle": "TBA",
+    "sermonText": "TBA",
+    "songOfResponse": "Before the Throne of God Above #448 (2008)",
+    "theLordsSupper": true,
+    "closing": "Blest Be the Tie #387",
+    "announcements": {
+      "isPopulated": true,
+      "list": [
+        "The Annie Armstrong Easter Offering goal is $2500.00. The offering envelopes are in the back of the pews.",
+        "On the construction plan in the foyer are renovation options. Please write your preferred option on a piece of paper and drop it in the collection plate.",
+        "April 13: Women on Mission will meet at 6:00 PM. Linda Baker will present the program, and Barbara Hoskins will provide the food.",
+        "April 25: Men’s Discipleship Breakfast hosted by Mark Deaton.",
+        "If you would like to order a VBS shirt, let Ryan know."
+      ]
     }
+  }
 }
