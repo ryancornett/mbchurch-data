@@ -5,16 +5,17 @@
     "callToWorship": "His Name Is Wonderful #203",
     "fellowshipSong": "Wonderful Words of Life #261",
     "songTypeEnum": [
-      { 1: "Song of Exultation" },
-      { 2: "Song of Adoration" },
-      { 3: "Song of Supplication" },
-      { 4: "Song of Devotion" },
-      { 5: "Psalm in Meter" }
+      { "exultation": "Song of Exultation" },
+      { "adoration": "Song of Adoration" },
+      { "supplication": "Song of Supplication" },
+      { "devotion": "Song of Devotion" },
+      { "psalm": "Psalm in Meter" }
     ],
-    "nextSongIsExultation": true,
-    "song": "Lead On, O King Eternal #621",
+    "thirdSongType": "devotion",
+    "thirdSong": "Lead On, O King Eternal #621",
     "responsiveReading": "Q63-64 | 1 Corinthians 16:1-2",
-    "songOfAdoration": "My Jesus, I Love Thee #210",
+    "fourthSongType": "adoration",
+    "fourthSong": "My Jesus, I Love Thee #210",
     "specialMusic": {
       "isScheduled": false,
       "provider": "MBC Choir",
