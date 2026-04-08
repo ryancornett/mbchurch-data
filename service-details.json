@@ -21,6 +21,13 @@
       "provider": "MBC Choir",
       "title": "Christ, Our Abiding Cornerstone"
     },
+    "sermonInfoEnum": {
+      "speaker": "Special Speaker",
+      "preacher": "Special Preacher",
+      "organization": "Representing",
+      "title": "Sermon Title",
+      "text": "Sermon Text"
+    },
     "sermonTitle": "*Special Gideons International Speaker*",
     "sermonText": "*Bobby Mills*",
     "songOfResponse": "Before the Throne of God Above #448 (2008)",
