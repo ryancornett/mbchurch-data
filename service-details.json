@@ -12,7 +12,7 @@
       "psalm": "Psalm in Meter",
       "consolation": "Song of Consolation"
     },
-    "responsiveReading": "Majesty and Power #669",
+    "responsiveReading": "#669 Majesty and Power",
     "thirdSongType": "consolation",
     "thirdSong": "Great Is Thy Faithfulness #621",
     "fourthSongType": "exultation",
@@ -29,9 +29,9 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "TBA",
-    "sermonText": "TBA",
-    "songOfResponse": "Turn Your Eyes Upon Jesus",
+    "sermonTitle": "The Two Harvests: What Justice Looks Like",
+    "sermonText": "Revelation 14:14-20",
+    "songOfResponse": "Turn Your Eyes Upon Jesus #320",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
