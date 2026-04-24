@@ -1,22 +1,23 @@
 {
-  "date": "4/19/2026",
+  "date": "4/26/2026",
   "details": {
-    "openingScripture": "Psalm 39:4-7",
-    "callToWorship": "Majesty #215",
-    "fellowshipSong": "At the Cross #139",
+    "openingScripture": "Psalm 40",
+    "callToWorship": "To God Be the Glory #004",
+    "fellowshipSong": "At Calvary #138",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
       "supplication": "Song of Supplication",
       "devotion": "Song of Devotion",
       "psalm": "Psalm in Meter",
-      "consolation": "Song of Consolation"
+      "consolation": "Song of Consolation",
+      "thanksgiving": "Song of Thanksgiving"
     },
     "responsiveReading": "#669 Majesty and Power",
-    "thirdSongType": "consolation",
-    "thirdSong": "Great Is Thy Faithfulness #621",
-    "fourthSongType": "exultation",
-    "fourthSong": "Are You Washed in the Blood #136",
+    "thirdSongType": "devotion",
+    "thirdSong": "We've a Story to Tell #586",
+    "fourthSongType": "thanksgiving",
+    "fourthSong": "Count Your Blessings #644",
     "specialMusic": {
       "isScheduled": false,
       "provider": "MBC Choir",
@@ -31,16 +32,15 @@
     },
     "sermonTitle": "The Two Harvests: What Justice Looks Like",
     "sermonText": "Revelation 14:14-20",
-    "songOfResponse": "Turn Your Eyes Upon Jesus #320",
+    "songOfResponse": "Because He Lives #407",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "April 13: Women on Mission will meet at 6:00 PM. Linda Baker will present the program, and Barbara Hoskins will provide the food.",
-        "April 25: Men’s Discipleship Breakfast hosted by Mark Deaton.",
         "May 17: Senior Sunday.",
-        "If you would like to order a VBS shirt, let Ryan know ASAP."
+        "Today is the last day to order a VBS shirt. Please let Ryan know ASAP.",
+        "Women on Mission will meet Monday, April 11 at 6:00 PM to lead decorating for VBS. Judy Rogers is in charge and encourages everyone to come join in."
       ]
     }
   }
