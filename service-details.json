@@ -1,9 +1,9 @@
 {
-  "date": "4/26/2026",
+  "date": "5/3/2026",
   "details": {
-    "openingScripture": "Psalm 40",
-    "callToWorship": "To God Be the Glory #004",
-    "fellowshipSong": "At Calvary #138",
+    "openingScripture": "Psalm 41",
+    "callToWorship": "Glorify Thy Name #249",
+    "fellowshipSong": "Sunshine in My Soul #138",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#669 Majesty and Power",
-    "thirdSongType": "devotion",
-    "thirdSong": "We've a Story to Tell #586",
-    "fourthSongType": "thanksgiving",
-    "fourthSong": "Count Your Blessings #644",
+    "responsiveReading": "#404 The Christian Life",
+    "thirdSongType": "exultation",
+    "thirdSong": "Standing on the Promises #335",
+    "fourthSongType": "adoration",
+    "fourthSong": "Christ, Our Abiding Cornerstone",
     "specialMusic": {
       "isScheduled": false,
       "provider": "MBC Choir",
@@ -32,17 +32,16 @@
     },
     "sermonTitle": "TBA",
     "sermonText": "TBA",
-    "songOfResponse": "Because He Lives #407",
-    "theLordsSupper": false,
-    "closing": "Prayer",
+    "songOfResponse": "Freely, Freely #273",
+    "theLordsSupper": true,
+    "closing": "Blest Be the Tie #387",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "May 17: Senior Sunday.",
-        "Today is the last day to order a VBS shirt. Please let Ryan know ASAP.",
+        "May 17: Senior Sunday. Additionally, Women on Mission will be recognizing our kids that are transitioning from pre-school, kindergarten, 6th grade, 8th grade and graduating college.",
         "Women on Mission will meet Monday, April 11 at 6:00 PM to lead decorating for VBS. Judy Rogers is in charge and encourages everyone to come join in.",
         "May 13: The first Beech Creek Round Up of the year at the Samples’ ranch from 6:00-8:00 PM.",
-        "Our 2026 VBS, Emerald Crossing, is May 31-June 3 from 6:00-8:00 PM nightly. Please sign up to help on the sheets in the foyer."
+        "Our 2026 VBS, Emerald Crossing, is May 31-June 3 from 6:00-8:00 PM nightly. Please sign up to help on the sheets in the foyer. If you ordered a VBS tee, those are $15 for XL and smaller, $17 for XXL and larger. Please give your payment to Ryan ASAP."
       ]
     }
   }
