@@ -1,9 +1,9 @@
 {
   "date": "5/3/2026",
   "details": {
-    "openingScripture": "Psalm 41",
-    "callToWorship": "Glorify Thy Name #249",
-    "fellowshipSong": "Sunshine in My Soul #138",
+    "openingScripture": "Psalm 42",
+    "callToWorship": "The Family of God #386",
+    "fellowshipSong": "When We All Get to Heaven #514",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#404 The Christian Life",
+    "responsiveReading": "#246 God the Trinity",
     "thirdSongType": "exultation",
-    "thirdSong": "Standing on the Promises #335",
-    "fourthSongType": "adoration",
-    "fourthSong": "Christ, Our Abiding Cornerstone",
+    "thirdSong": "Love Lifted Me #546",
+    "fourthSongType": "supplication",
+    "fourthSong": "God, Give Us Christian Homes #504",
     "specialMusic": {
       "isScheduled": false,
       "provider": "MBC Choir",
@@ -30,17 +30,17 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "The Seven Bowl Judgments: The Point of No Return",
-    "sermonText": "Revelation 16:1-21",
-    "songOfResponse": "Freely, Freely #273",
+    "sermonTitle": "TBA",
+    "sermonText": "Revelation 17",
+    "songOfResponse": "Blessed Redeemer #149",
     "theLordsSupper": true,
-    "closing": "Blest Be the Tie #387",
+    "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "May 17: Senior Sunday. Additionally, Women on Mission will be recognizing our kids that are transitioning from pre-school, kindergarten, 6th grade, 8th grade and graduating college.",
-        "Women on Mission will meet Monday, April 11 at 6:00 PM to lead decorating for VBS. Judy Rogers is in charge and encourages everyone to come join in.",
-        "May 13: The first Beech Creek Round Up of the year at the Samples’ ranch from 6:00-8:00 PM.",
+        "Women on Mission will meet tomorrow, May 11 at 6:00 PM to lead decorating for VBS. Judy Rogers is in charge and encourages everyone to come join in.",
+        "May 13: This Wednesday is the first Beech Creek Round Up of the year at the Samples’ ranch from 6:00-8:00 PM.",
+        "May 17: Next week is Senior Sunday. Send your senior’s pictures for a slideshow to Ryan by email by tomorrow evening (RyanDCornett@gmail.com). Additionally, Women on Mission will be recognizing our kids that are transitioning from pre-school, kindergarten, 6th grade, 8th grade and graduating college.",
         "Our 2026 VBS, Emerald Crossing, is May 31-June 3 from 6:00-8:00 PM nightly. Please sign up to help on the sheets in the foyer. If you ordered a VBS tee, those are $15 for XL and smaller, $17 for XXL and larger. Please give your payment to Ryan ASAP."
       ]
     }
