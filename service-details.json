@@ -1,9 +1,9 @@
 {
-  "date": "5/17/2026",
+  "date": "5/24/2026",
   "details": {
-    "openingScripture": "Psalm 43",
-    "callToWorship": "We Have Come into His House #361",
-    "fellowshipSong": "- none this week -",
+    "openingScripture": "Psalm 44:1-8",
+    "callToWorship": "Jesus Shall Reign #587",
+    "fellowshipSong": "Revive Us Again #469",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,15 +13,15 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "- none this week -",
-    "thirdSongType": "devotion",
-    "thirdSong": "Trust and Obey #447",
-    "fourthSongType": "exultation",
-    "fourthSong": "- none this week -",
+    "responsiveReading": "#237 God the Holy Spirit",
+    "thirdSongType": "adoration",
+    "thirdSong": "Leaning on the Everlasting Arms #333",
+    "fourthSongType": "consolation",
+    "fourthSong": "I Know Whom I Have Believed #337",
     "specialMusic": {
-      "isScheduled": false,
-      "provider": "MBC Choir",
-      "title": "Christ, Our Abiding Cornerstone"
+      "isScheduled": true,
+      "provider": "Ryan Cornett",
+      "title": "Babylon Is Fallen"
     },
     "sermonInfoEnum": {
       "speaker": "Special Speaker",
@@ -30,17 +30,15 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Jesus’ Graduation",
-    "sermonText": "Luke 2:41-52",
-    "songOfResponse": "Amazing Grace #330",
+    "sermonTitle": "TBA",
+    "sermonText": "Revelation 18",
+    "songOfResponse": "The Nail-Scarred Hand #318",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "Thanks to Women on Mission and all who came out last week to decorate for today’s fellowship meal and Vacation Bible School. The work is not done, but many hands make it lighter… PLEASE come join us and help out.",
-        "Today is Senior Sunday. In additional to high school seniors, Women on Mission will be recognizing our kids that are transitioning from pre-school, kindergarten, 6th grade, 8th grade and graduating college.",
-        "Our 2026 VBS, Emerald Crossing, is May 31-June 3 from 6:00-8:00 PM nightly. Please sign up to help on the sheets in the foyer. If you ordered a VBS tee, those are $15 for XL and smaller, $17 for XXL and larger. Please give your payment to Ryan ASAP.",
+        "Our 2026 VBS, Emerald Crossing, is May 31-June 3 from 6:00-8:00 PM nightly. Please sign up to help on the sheets in the foyer. If you paid for a VBS tee, you may pick it up in the Lewis Fellowship Hall.",
         "June 7: Quarterly business meeting after the evening service."
       ]
     }
