@@ -1,9 +1,9 @@
 {
-  "date": "5/24/2026",
+  "date": "5/31/2026",
   "details": {
-    "openingScripture": "Psalm 44:1-8",
-    "callToWorship": "Jesus Shall Reign #587",
-    "fellowshipSong": "Revive Us Again #469",
+    "openingScripture": "Psalm 44:23-26",
+    "callToWorship": "O, How I Love Jesus #217",
+    "fellowshipSong": "There Is a Fountain #142",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,13 +13,13 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#237 God the Holy Spirit",
-    "thirdSongType": "adoration",
-    "thirdSong": "Leaning on the Everlasting Arms #333",
-    "fourthSongType": "consolation",
-    "fourthSong": "I Know Whom I Have Believed #337",
+    "responsiveReading": "tba",
+    "thirdSongType": "devotion",
+    "thirdSong": "Send the Light #595",
+    "fourthSongType": "adoration",
+    "fourthSong": "Holy, Holy, Holy #002",
     "specialMusic": {
-      "isScheduled": true,
+      "isScheduled": false,
       "provider": "Ryan Cornett",
       "title": "Babylon Is Fallen"
     },
@@ -30,9 +30,9 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Everything that Glitters Is Not Gold",
-    "sermonText": "Revelation 18:1-24",
-    "songOfResponse": "The Nail-Scarred Hand #318",
+    "sermonTitle": "TBA",
+    "sermonText": "Revelation 19",
+    "songOfResponse": "Jesus, Keep Me Near the Cross #280",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
