@@ -1,9 +1,9 @@
 {
-  "date": "6/7/2026",
+  "date": "6/14/2026",
   "details": {
-    "openingScripture": "Psalm 45:1-9",
-    "callToWorship": "Seek Ye First #478",
-    "fellowshipSong": "He Leadeth Me! O Blessed Thought #052",
+    "openingScripture": "Psalm 46",
+    "callToWorship": "Immortal, Invisible, God Only Wise #006",
+    "fellowshipSong": "All Creatures of Our God and King #027",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#119 The Love of God",
-    "thirdSongType": "adoration",
-    "thirdSong": "There Is Power in the Blood #132",
-    "fourthSongType": "consolation",
-    "fourthSong": "Blessed Assurance #334",
+    "responsiveReading": "#503 Home and Family",
+    "thirdSongType": "devotion",
+    "thirdSong": "Higher Ground #484",
+    "fourthSongType": "adoration",
+    "fourthSong": "Redeemed #531",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -30,18 +30,15 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "What Will Jesus Be Like When He Returns?",
-    "sermonText": "Revelation 19:11-16",
-    "songOfResponse": "Have Thine Own Way, Lord #294",
-    "theLordsSupper": true,
-    "closing": "Blest Be the Tie #387",
+    "sermonTitle": "TBA",
+    "sermonText": "Revelation 20:1-",
+    "songOfResponse": "Have You Been to Calvary #324",
+    "theLordsSupper": false,
+    "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "June 7: Quarterly business meeting after the evening service.",
-        "June 27: Men’s Discipleship Breakfast at 8:00 AM hosted by Mark Deaton.",
-        "Praise God for a wonderful 2026 VBS! Emerald Crossing was so much fun and a great success because God brought His people together to serve young people. We will finish learning Psalm 23 tonight!",
-        "VBS students donated $845.57 to the Carol Bolin Memorial Mission Fund. Praise the Lord!"
+        "June 27: Men’s Discipleship Breakfast at 8:00 AM hosted by Mark Deaton."
       ]
     }
   }
