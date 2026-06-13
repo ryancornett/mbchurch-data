@@ -30,14 +30,15 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "TBA",
-    "sermonText": "Revelation 20:1-",
+    "sermonTitle": "The Other Supper",
+    "sermonText": "Revelation 19:17-21",
     "songOfResponse": "Have You Been to Calvary #324",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
+        "June 16: Free Shoot Hoops not Drugs tour event from 4-7 PM at CCHS. Former UK team member Jarrod Polson will conduct the camp. All school-age children are invited to participate.",
         "June 27: Men’s Discipleship Breakfast at 8:00 AM hosted by Mark Deaton."
       ]
     }
