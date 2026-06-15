@@ -1,9 +1,9 @@
 {
-  "date": "6/14/2026",
+  "date": "6/21/2026",
   "details": {
-    "openingScripture": "Psalm 46",
-    "callToWorship": "Immortal, Invisible, God Only Wise #006",
-    "fellowshipSong": "All Creatures of Our God and King #027",
+    "openingScripture": "Psalm 47",
+    "callToWorship": "Praise God from Whom All Blessings Flow #253",
+    "fellowshipSong": "Tis So Sweet to Trust in Jesus #411",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#503 Home and Family",
+    "responsiveReading": "#513 Life Eternal",
     "thirdSongType": "devotion",
-    "thirdSong": "Higher Ground #484",
-    "fourthSongType": "adoration",
-    "fourthSong": "Redeemed #531",
+    "thirdSong": "Faith of Our Fathers #352",
+    "fourthSongType": "supplication",
+    "fourthSong": "Rock of Ages, Cleft for Me #342",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -30,16 +30,17 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "The Other Supper",
-    "sermonText": "Revelation 19:17-21",
-    "songOfResponse": "Have You Been to Calvary #324",
+    "sermonTitle": "TBA",
+    "sermonText": "Revelation 20:1-",
+    "songOfResponse": "Nearer, My God, to Thee #458",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
         "June 16: Free Shoot Hoops not Drugs tour event from 4-7 PM at CCHS. Former UK team member Jarrod Polson will conduct the camp. All school-age children are invited to participate.",
-        "June 27: Men’s Discipleship Breakfast at 8:00 AM hosted by Mark Deaton."
+        "June 27: Men’s Discipleship Breakfast at 8:00 AM hosted by Mark Deaton.",
+        "July 6: Women on Mission will meet at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program, and Rayanna Baker will provide the food. All women are encouraged and invited to attend."
       ]
     }
   }
