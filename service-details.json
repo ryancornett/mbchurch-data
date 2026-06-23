@@ -1,9 +1,9 @@
 {
-  "date": "6/21/2026",
+  "date": "6/28/2026",
   "details": {
-    "openingScripture": "Psalm 47",
-    "callToWorship": "Praise God from Whom All Blessings Flow #253",
-    "fellowshipSong": "Tis So Sweet to Trust in Jesus #411",
+    "openingScripture": "Psalm 48:1-8",
+    "callToWorship": "This Is the Day #359",
+    "fellowshipSong": "No, Not One #181",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#513 Life Eternal",
+    "responsiveReading": "TBA",
     "thirdSongType": "devotion",
-    "thirdSong": "Faith of Our Fathers #352",
+    "thirdSong": "We'll Work Till Jesus Comes #608",
     "fourthSongType": "supplication",
-    "fourthSong": "Rock of Ages, Cleft for Me #342",
+    "fourthSong": "I Must Tell Jesus #455",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -30,17 +30,17 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Last Things: Part One",
-    "sermonText": "Revelation 20",
-    "songOfResponse": "Nearer, My God, to Thee #458",
+    "sermonTitle": "Last Things: Part Two",
+    "sermonText": "Revelation 20:11ff",
+    "songOfResponse": "The Church’s One Foundation #350",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "June 27: Men’s Discipleship Breakfast at 8:00 AM hosted by Mark Deaton.",
+        "July 5: We will hold an “Ask Pastor Ken” forum during the evening service. Please send any questions you have for Ken about theology, church history, culture, parting wisdom, etc., to questions@manchesterbaptistchurch.org. After the service will be the annual Ice Cream Social in the Lewis Fellowship Hall.",
         "July 6: Women on Mission will meet at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program, and Rayanna Baker will provide the food. All women are encouraged and invited to attend.",
-        "We will hold an “Ask Pastor Ken” forum on an upcoming Sunday evening very soon. If you have any questions for Ken about theology, church history, culture, parting wisdom, etc., please email questions@manchesterbaptistchurch.org."
+        "July 12: There will be a Special Called Business Meeting following the morning worship service. The purpose of the meeting will be to vote on the nominating committee members, and to vote on a new treasurer."
       ]
     }
   }
