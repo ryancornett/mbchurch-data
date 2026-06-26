@@ -13,7 +13,7 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "TBA",
+    "responsiveReading": "#530 Testimony",
     "thirdSongType": "devotion",
     "thirdSong": "We'll Work Till Jesus Comes #608",
     "fourthSongType": "supplication",
@@ -31,7 +31,7 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Last Things: Part Two",
-    "sermonText": "Revelation 20:11ff",
+    "sermonText": "Revelation 20:11-15",
     "songOfResponse": "The Church’s One Foundation #350",
     "theLordsSupper": false,
     "closing": "Prayer",
@@ -41,7 +41,17 @@
         "July 5: We will hold an “Ask Pastor Ken” forum during the evening service. Please send any questions you have for Ken about theology, church history, culture, parting wisdom, etc., to questions@manchesterbaptistchurch.org. After the service will be the annual Ice Cream Social in the Lewis Fellowship Hall.",
         "July 6: Women on Mission will meet at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program, and Rayanna Baker will provide the food. All women are encouraged and invited to attend.",
         "July 12: There will be a Special Called Business Meeting following the morning worship service. The purpose of the meeting will be to vote on the nominating committee members, and to vote on a new treasurer."
-      ]
+      ],
+    "fighterVerse": {
+      "week": "June 28, 2026",
+      "text": "Finally, my brethren, be strong in the Lord, and in the power of his might. Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+      "reference": {
+        "book": "Ephesians",
+        "chapter": "6",
+        "verseRange": "10-11",
+        "translation": "KJV"
+        }
+      }
     }
   }
 }
