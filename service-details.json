@@ -1,9 +1,9 @@
 {
-  "date": "7/5/2026",
+  "date": "7/12/2026",
   "details": {
-    "openingScripture": "Psalm 48:9-14",
-    "callToWorship": "Soon and Very Soon #192",
-    "fellowshipSong": "I Am Resolved #301",
+    "openingScripture": "Psalm 49:1-15",
+    "callToWorship": "Greater Is He That Is in Me #437",
+    "fellowshipSong": "Down at the Cross #140",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -14,10 +14,10 @@
       "thanksgiving": "Song of Thanksgiving"
     },
     "responsiveReading": "#721 God and Country",
-    "thirdSongType": "thanksgiving",
-    "thirdSong": "Bless the Lord, O My Soul",
-    "fourthSongType": "exultation",
-    "fourthSong": "There Is a Fountain #142",
+    "thirdSongType": "consolation",
+    "thirdSong": "It Is Well with My Soul #410",
+    "fourthSongType": "devotion",
+    "fourthSong": "The Lily of the Valley #189",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -30,26 +30,25 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "The New Jerusalem: A Place or a People?",
-    "sermonText": "Revelation 21",
-    "songOfResponse": "Jesus, Keep Me Near the Cross #280",
-    "theLordsSupper": true,
-    "closing": "Blest Be the Tie #387",
+    "sermonTitle": "TBA",
+    "sermonText": "Revelation 21:16-21",
+    "songOfResponse": "O Love That Wilt Not Let Me Go #292",
+    "theLordsSupper": false,
+    "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "July 5: We will hold an “Ask Pastor Ken” forum during the evening service. Please send any questions you have for Ken about theology, church history, culture, parting wisdom, etc., to questions@manchesterbaptistchurch.org. After the service will be the annual Ice Cream Social in the Lewis Fellowship Hall.",
-        "July 6: Women on Mission will meet tomorrow at 6:00 PM in the Lewis Fellowship Hall. Linda Baker will present the program, and Rayanna Baker will provide the food. All women are encouraged and invited to attend. The July 26 fellowship meal will be discussed as well.",
-        "July 12: There will be a Special Called Business Meeting following the morning worship service. The purpose of the meeting will be to vote on the nominating committee members and to vote on a new treasurer.",
-        "July 26: Pastor Ken’s last Sunday with a fellowship meal to follow. Please plan to come and bring sides & desserts."
+        "July 12: There will be a Special Called Business Meeting following the morning worship service. The purpose is for church members to vote on the nominating committee members and a new church treasurer.",
+        "July 25: Men’s Discipleship Breakfast at Mark Deaton’s garage at 8:00 AM. All men are invited.",
+        "July 26: Pastor Ken’s last Sunday with a catered fellowship meal to follow. Please plan to come and bring desserts."
       ],
     "fighterVerse": {
-      "week": "July 05, 2026",
-      "text": "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.",
+      "week": "July 12, 2026",
+      "text": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace.",
       "reference": {
         "book": "Ephesians",
         "chapter": "6",
-        "verseRange": "12-13",
+        "verseRange": "14-15",
         "translation": "KJV"
         }
       }
