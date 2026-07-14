@@ -1,9 +1,9 @@
 {
-  "date": "7/12/2026",
+  "date": "7/19/2026",
   "details": {
-    "openingScripture": "Psalm 49:1-15",
-    "callToWorship": "Greater Is He That Is in Me #437",
-    "fellowshipSong": "Down at the Cross #140",
+    "openingScripture": "Psalm 50:1-6",
+    "callToWorship": "Rejoice in the Lord Always #433",
+    "fellowshipSong": "Take Time to Be Holy #446",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#598 Nurture, Education, Stewardship, and Service",
-    "thirdSongType": "consolation",
-    "thirdSong": "It Is Well with My Soul #410",
+    "responsiveReading": "#708 Commitment",
+    "thirdSongType": "adoration",
+    "thirdSong": "The Solid Rock #410",
     "fourthSongType": "devotion",
-    "fourthSong": "The Lily of the Valley #189",
+    "fourthSong": "Be Thou My Vision #060",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -30,25 +30,24 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Last Things: Part Three",
-    "sermonText": "Revelation 22",
-    "songOfResponse": "O Love That Wilt Not Let Me Go #292",
+    "sermonTitle": "Thank You",
+    "sermonText": "Philippians 1:3-6",
+    "songOfResponse": "Wherever He Leads I'll Go #285",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "July 12: There will be a Special Called Business Meeting following the morning worship service. The purpose is for church members to vote on the nominating committee members and a new church treasurer.",
-        "July 25: Men’s Discipleship Breakfast at Mark Deaton’s garage at 8:00 AM. All men are invited.",
-        "July 26: Pastor Ken’s last Sunday with a catered fellowship meal to follow. Please plan to come and bring desserts."
+        "Saturday, July 25: Men’s Discipleship Breakfast at Mark Deaton’s garage at 8:00 AM. All men are invited.",
+        "Sunday, July 26: Pastor Ken’s last Sunday with a catered fellowship meal to follow. Please plan to come and bring desserts."
       ],
     "fighterVerse": {
-      "week": "July 12, 2026",
-      "text": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace.",
+      "week": "July 19, 2026",
+      "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God.",
       "reference": {
         "book": "Ephesians",
         "chapter": "6",
-        "verseRange": "14-15",
+        "verseRange": "16-17",
         "translation": "KJV"
         }
       }
