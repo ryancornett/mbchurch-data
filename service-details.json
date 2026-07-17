@@ -15,12 +15,12 @@
     },
     "responsiveReading": "#708 Commitment",
     "thirdSongType": "adoration",
-    "thirdSong": "The Solid Rock #410",
+    "thirdSong": "The Solid Rock #406",
     "fourthSongType": "devotion",
     "fourthSong": "Be Thou My Vision #060",
     "specialMusic": {
       "isScheduled": false,
-      "provider": "Ryan Cornett",
+      "provider": "Allen Roberts",
       "title": "Babylon Is Fallen"
     },
     "sermonInfoEnum": {
@@ -38,6 +38,7 @@
     "announcements": {
       "isPopulated": true,
       "list": [
+        "Sunday, July 19: No evening service; Charles Keith's visitation is at 6:00 PM.",
         "Saturday, July 25: Men’s Discipleship Breakfast at Mark Deaton’s garage at 8:00 AM. All men are invited.",
         "Sunday, July 26: Pastor Ken’s last Sunday with a catered fellowship meal to follow. Please plan to come and bring desserts."
       ],
