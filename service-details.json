@@ -1,9 +1,9 @@
 {
-  "date": "7/19/2026",
+  "date": "7/26/2026",
   "details": {
-    "openingScripture": "Psalm 50:1-6",
-    "callToWorship": "Rejoice in the Lord Always #433",
-    "fellowshipSong": "Take Time to Be Holy #446",
+    "openingScripture": "Psalm 50:7-17",
+    "callToWorship": "Amazing Grace #330",
+    "fellowshipSong": "Blessed Assurance #334",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#708 Commitment",
+    "responsiveReading": "#702 Joy and Triumph",
     "thirdSongType": "adoration",
-    "thirdSong": "The Solid Rock #406",
+    "thirdSong": "Victory in Jesus #426",
     "fourthSongType": "devotion",
-    "fourthSong": "Be Thou My Vision #060",
+    "fourthSong": "In Christ Alone #506 (2008 Hymnal)",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Allen Roberts",
@@ -30,25 +30,24 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Thank You",
-    "sermonText": "Philippians 1:3-6",
-    "songOfResponse": "Wherever He Leads I'll Go #285",
+    "sermonTitle": "More of the Spirit",
+    "sermonText": "2 Kings 2:6-14",
+    "songOfResponse": "Turn Your Eyes Upon Jesus #320",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "Sunday, July 19: No evening service; Charles Keith's visitation is at 6:00 PM.",
-        "Saturday, July 25: Men’s Discipleship Breakfast at Mark Deaton’s garage at 8:00 AM. All men are invited.",
-        "Sunday, July 26: Pastor Ken’s last Sunday with a catered fellowship meal to follow. Please plan to come and bring desserts."
+        "Sunday, July 26: Pastor Ken’s last Sunday with a catered fellowship meal to follow. Please plan to come and bring desserts.",
+        "Wendell Carmack will be preaching Sunday, August 2."
       ],
     "fighterVerse": {
-      "week": "July 19, 2026",
-      "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God.",
+      "week": "July 26, 2026",
+      "text": "… he which hath begun a good work in you will perform it until the day of Jesus Christ.",
       "reference": {
-        "book": "Ephesians",
-        "chapter": "6",
-        "verseRange": "16-17",
+        "book": "Philippians",
+        "chapter": "1",
+        "verseRange": "6",
         "translation": "KJV"
         }
       }
