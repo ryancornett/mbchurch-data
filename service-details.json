@@ -1,9 +1,9 @@
 {
-  "date": "8/2/2026",
+  "date": "8/9/2026",
   "details": {
-    "openingScripture": "Psalm 51:7-17",
-    "callToWorship": "Doxology #253",
-    "fellowshipSong": "My Faith Has Found a Resting Place #412",
+    "openingScripture": "Psalm 53",
+    "callToWorship": "All Hail the Power of Jesus' Name #202",
+    "fellowshipSong": "Wonderful Grace of Jesus #328",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,13 +13,13 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#041 God's Work",
+    "responsiveReading": "#266 Our Sin",
     "thirdSongType": "adoration",
-    "thirdSong": "We've a Story to Tell #586",
+    "thirdSong": "Surely Goodness and Mercy #410",
     "fourthSongType": "devotion",
-    "fourthSong": "Are You Washed in the Blood #136",
+    "fourthSong": "Come Thou Fount #015",
     "specialMusic": {
-      "isScheduled": true,
+      "isScheduled": false,
       "provider": "Ryan Cornett",
       "title": "Let There Be Light"
     },
@@ -31,10 +31,10 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Guest Preacher",
-    "sermonText": "Wendell Carmack",
-    "songOfResponse": "Just a Closer Walk with Thee #448",
-    "theLordsSupper": true,
-    "closing": "Blest Be the Tie #387",
+    "sermonText": "Andrew Dyer",
+    "songOfResponse": "Just As I Am #307",
+    "theLordsSupper": false,
+    "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
@@ -45,12 +45,12 @@
         "Upcoming preachers: Andrew Dyer - August 9 & 23 || Camron Hyde - August 16 || Jared Styles - August 30 through September"
       ],
     "fighterVerse": {
-      "week": "August 02, 2026",
-      "text": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.",
+      "week": "August 09, 2026",
+      "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek. For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.",
       "reference": {
-        "book": "Matthew",
-        "chapter": "10",
-        "verseRange": "28",
+        "book": "Romans",
+        "chapter": "1",
+        "verseRange": "16-17",
         "translation": "KJV"
         }
       }
