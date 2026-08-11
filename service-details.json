@@ -1,9 +1,9 @@
 {
-  "date": "8/9/2026",
+  "date": "8/16/2026",
   "details": {
-    "openingScripture": "Psalm 53",
-    "callToWorship": "All Hail the Power of Jesus' Name #202",
-    "fellowshipSong": "Wonderful Grace of Jesus #328",
+    "openingScripture": "Psalm 54",
+    "callToWorship": "All People That on Earth Do Dwell #005",
+    "fellowshipSong": "When the Roll Is Called Up Yonder #516",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#266 Our Sin",
+    "responsiveReading": "#669 Majesty and Power",
     "thirdSongType": "adoration",
-    "thirdSong": "Surely Goodness and Mercy #422",
+    "thirdSong": "Savior, Like a Shepherd Lead Us #061",
     "fourthSongType": "devotion",
-    "fourthSong": "Come Thou Fount #015",
+    "fourthSong": "The Power of the Cross #232 (2008 Hymnal)",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -31,26 +31,25 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Guest Preacher",
-    "sermonText": "Andrew Dyer",
-    "songOfResponse": "Just As I Am #307",
+    "sermonText": "Camron Hyde",
+    "songOfResponse": "I Surrender All #275",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
         "Donations are currently being accepted for the Christmas Shoeboxes through the month of August. Our goal is 150 shoeboxes.",
-        "Women on Mission will meet on Monday, August 10 at 6:00 PM in the Lewis Fellowship Hall. Margaret Davidson will present the program, and Tracey Kidd will provide the food. All women are encouraged and invited to attend.",
         "The next Men’s Discipleship Breakfast is Saturday, August 22 at 8:00 AM, and will be hosted by Mark Deaton. All men are encouraged to attend and invite a friend.",
         "The next quarterly business meeting will be held on Sunday, September 6th after the morning worship service.",
-        "Upcoming preachers: Andrew Dyer - August 9 & 23 || Camron Hyde - August 16 || Jared Styles - August 30 through September"
+        "Upcoming preachers: Andrew Dyer 23 || Jared Styles - August 30 through September"
       ],
     "fighterVerse": {
-      "week": "August 09, 2026",
-      "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek. For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.",
+      "week": "August 16, 2026",
+      "text": "28 Come unto me, all ye that labour and are heavy laden, and I will give you rest. 29 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. 30 For my yoke is easy, and my burden is light.",
       "reference": {
-        "book": "Romans",
-        "chapter": "1",
-        "verseRange": "16-17",
+        "book": "Matthew",
+        "chapter": "11",
+        "verseRange": "28-30",
         "translation": "KJV"
         }
       }
