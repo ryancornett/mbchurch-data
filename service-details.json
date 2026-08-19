@@ -1,9 +1,9 @@
 {
-  "date": "8/16/2026",
+  "date": "8/23/2026",
   "details": {
-    "openingScripture": "Psalm 54",
-    "callToWorship": "All People That on Earth Do Dwell #005",
-    "fellowshipSong": "When the Roll Is Called Up Yonder #516",
+    "openingScripture": "Psalm 55:16-23",
+    "callToWorship": "The Bond of Love #384",
+    "fellowshipSong": "There Shall Be Showers of Blessing #467",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#669 Majesty and Power",
+    "responsiveReading": "#670 Majesty and Power",
     "thirdSongType": "adoration",
-    "thirdSong": "Savior, Like a Shepherd Lead Us #061",
+    "thirdSong": "Sweet Hour of Prayer #445",
     "fourthSongType": "devotion",
-    "fourthSong": "The Power of the Cross #232 (2008 Hymnal)",
+    "fourthSong": "And Can It Be #147",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -31,25 +31,23 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Guest Preacher",
-    "sermonText": "Camron Hyde",
-    "songOfResponse": "I Surrender All #275",
+    "sermonText": "Bro. Andrew Dyer",
+    "songOfResponse": "Only Trust Him #317",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "Donations are currently being accepted for the Christmas Shoeboxes through the month of August. Our goal is 150 shoeboxes.",
-        "The next Men’s Discipleship Breakfast is Saturday, August 22 at 8:00 AM, and will be hosted by Mark Deaton. All men are encouraged to attend and invite a friend.",
-        "The next quarterly business meeting will be held on Sunday, September 6th after the morning worship service.",
-        "Upcoming preachers: Andrew Dyer 23 || Jared Styles - August 30 through September"
+        "Donations are currently being accepted for the Christmas Shoeboxes through the month of August. Our goal is 150 shoeboxes."
+        "The next quarterly business meeting will be held on Sunday, September 6th after the morning worship service."
       ],
     "fighterVerse": {
-      "week": "August 16, 2026",
-      "text": "28 Come unto me, all ye that labour and are heavy laden, and I will give you rest. 29 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. 30 For my yoke is easy, and my burden is light.",
+      "week": "August 23, 2026",
+      "text": "6 Now know I that the Lord saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand. 7 Some trust in chariots, and some in horses: but we will remember the name of the Lord our God.",
       "reference": {
-        "book": "Matthew",
-        "chapter": "11",
-        "verseRange": "28-30",
+        "book": "Psalm",
+        "chapter": "20",
+        "verseRange": "6-7",
         "translation": "KJV"
         }
       }
