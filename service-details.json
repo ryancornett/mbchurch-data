@@ -1,9 +1,9 @@
 {
-  "date": "8/23/2026",
+  "date": "8/30/2026",
   "details": {
     "openingScripture": "Psalm 55:16-23",
-    "callToWorship": "The Bond of Love #384",
-    "fellowshipSong": "There Shall Be Showers of Blessing #467",
+    "callToWorship": "Come, Christians, Join to Sing #231",
+    "fellowshipSong": "Praise Him! Praise Him! #227",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -15,7 +15,7 @@
     },
     "responsiveReading": "#670 Majesty and Power",
     "thirdSongType": "adoration",
-    "thirdSong": "Sweet Hour of Prayer #445",
+    "thirdSong": "How Firm a Foundation #338",
     "fourthSongType": "devotion",
     "fourthSong": "And Can It Be #147",
     "specialMusic": {
@@ -31,8 +31,8 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Guest Preacher",
-    "sermonText": "Bro. Andrew Dyer",
-    "songOfResponse": "Only Trust Him #317",
+    "sermonText": "Bro. Jared Styles",
+    "songOfResponse": "O How He Loves You and Me #146",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
@@ -43,12 +43,12 @@
         "Beech Creek Round Up for Christ: Wednesday, September 2 & September 30."
       ],
     "fighterVerse": {
-      "week": "August 23, 2026",
-      "text": "Now know I that the Lord saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand. Some trust in chariots, and some in horses: but we will remember the name of the Lord our God.",
+      "week": "August 30, 2026",
+      "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
       "reference": {
-        "book": "Psalm",
-        "chapter": "20",
-        "verseRange": "6-7",
+        "book": "James",
+        "chapter": "1",
+        "verseRange": "12",
         "translation": "KJV"
         }
       }
