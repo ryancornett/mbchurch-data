@@ -1,9 +1,9 @@
 {
-  "date": "9/6/2026",
+  "date": "9/13/2026",
   "details": {
-    "openingScripture": "Psalm 56:1-3",
-    "callToWorship": "Doxology #253",
-    "fellowshipSong": "At the Cross #139",
+    "openingScripture": "Psalm 56:4-11",
+    "callToWorship": "We Will Glorify #213",
+    "fellowshipSong": "Have Faith in God #405",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "-none this week-",
+    "responsiveReading": "#672 Love, Mercy, and Grace",
     "thirdSongType": "adoration",
-    "thirdSong": "Because He Lives #407",
+    "thirdSong": "He Leadeth Me! O Blessed Thought #052",
     "fourthSongType": "devotion",
-    "fourthSong": "Are You Washed in the Blood #136",
+    "fourthSong": "Footsteps of Jesus #483",
     "specialMusic": {
       "isScheduled": false,
       "provider": "Ryan Cornett",
@@ -31,24 +31,25 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Guest Preacher",
-    "sermonText": "Bro. Jared Styles",
-    "songOfResponse": "Blessed Redeemer #149",
-    "theLordsSupper": false,
-    "closing": "Prayer",
+    "sermonText": "Bro. Nathaniel Potter",
+    "songOfResponse": "Grace Greater than Our Sin #329",
+    "theLordsSupper": true,
+    "closing": "Blest Be the Tie #387",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "The quarterly business meeting will be held following the morning worship service.",
+        "A big THANK YOU to the Church for the $1150.00 that was donated toward the Christmas Shoebox Ministry this year. We greatly appreciate the support.",
         "Women on Mission will meet Monday, September 14 in the Lewis Fellowship Hall at 6:00 PM. Anna Collins will present the program, and Linda Baker will provide the food.",
-        "The last Beech Creek Round Up for Christ of the year is Wednesday, September 30."
+        "The last Beech Creek Round Up for Christ of the year is Wednesday, September 30.",
+        "The Eliza Broadus State mission offering goal is $2,500."
       ],
     "fighterVerse": {
-      "week": "September 06, 2026",
-      "text": "6 … He who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully. 7 So let each one give as he purposes in his heart, not grudgingly or of necessity; for God loves a cheerful giver.",
+      "week": "September 13, 2026",
+      "text": "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work.",
       "reference": {
         "book": "2 Corinthians",
         "chapter": "9",
-        "verseRange": "6-7",
+        "verseRange": "8",
         "translation": "KJV"
         }
       }
