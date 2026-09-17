@@ -1,9 +1,9 @@
 {
-  "date": "9/13/2026",
+  "date": "9/20/2026",
   "details": {
-    "openingScripture": "Psalm 56:4-11",
-    "callToWorship": "We Will Glorify #213",
-    "fellowshipSong": "Have Faith in God #405",
+    "openingScripture": "Psalm 57:1-3",
+    "callToWorship": "O Worship the King #016",
+    "fellowshipSong": "Heaven Came Down #438",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,15 +13,15 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#672 Love, Mercy, and Grace",
+    "responsiveReading": "#041 God's Work",
     "thirdSongType": "adoration",
-    "thirdSong": "He Leadeth Me! O Blessed Thought #052",
+    "thirdSong": "His Mercy Is More",
     "fourthSongType": "devotion",
-    "fourthSong": "Footsteps of Jesus #483",
+    "fourthSong": "I Will Sing of My Redeemer #575",
     "specialMusic": {
       "isScheduled": false,
-      "provider": "Ryan Cornett",
-      "title": "Let There Be Light"
+      "provider": "N/A",
+      "title": "N/A"
     },
     "sermonInfoEnum": {
       "speaker": "Special Speaker",
@@ -31,25 +31,23 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Guest Preacher",
-    "sermonText": "Bro. Nathaniel Potter",
-    "songOfResponse": "Grace Greater than Our Sin #329",
-    "theLordsSupper": true,
-    "closing": "Blest Be the Tie #387",
+    "sermonText": "Bro. Jared Styles",
+    "songOfResponse": "Come, Ye Sinners, Poor and Needy #323",
+    "theLordsSupper": false,
+    "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "A big THANK YOU to the Church for the $1150.00 that was donated toward the Christmas Shoebox Ministry this year. We greatly appreciate the support.",
-        "Women on Mission will meet Monday, September 14 in the Lewis Fellowship Hall at 6:00 PM. Anna Collins will present the program, and Linda Baker will provide the food.",
         "The last Beech Creek Round Up for Christ of the year is Wednesday, September 30.",
         "The Eliza Broadus State mission offering goal is $2,500."
       ],
     "fighterVerse": {
-      "week": "September 13, 2026",
-      "text": "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work.",
+      "week": "September 20, 2026",
+      "text": "… My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
       "reference": {
         "book": "2 Corinthians",
-        "chapter": "9",
-        "verseRange": "8",
+        "chapter": "12",
+        "verseRange": "9",
         "translation": "KJV"
         }
       }
