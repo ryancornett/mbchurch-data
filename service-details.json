@@ -1,9 +1,9 @@
 {
-  "date": "9/20/2026",
+  "date": "9/27/2026",
   "details": {
-    "openingScripture": "Psalm 57:1-3",
-    "callToWorship": "O Worship the King #016",
-    "fellowshipSong": "Heaven Came Down #438",
+    "openingScripture": "Psalm 57:7-11",
+    "callToWorship": "O for a Thousand Tongues to Sing #216",
+    "fellowshipSong": "We Have Heard the Joyful Sound #581",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -13,11 +13,11 @@
       "consolation": "Song of Consolation",
       "thanksgiving": "Song of Thanksgiving"
     },
-    "responsiveReading": "#041 God's Work",
+    "responsiveReading": "none this week",
     "thirdSongType": "adoration",
-    "thirdSong": "His Mercy Is More",
+    "thirdSong": "What a Friend We Have in Jesus #182",
     "fourthSongType": "devotion",
-    "fourthSong": "I Will Sing of My Redeemer #575",
+    "fourthSong": "only one congregational hymn this week",
     "specialMusic": {
       "isScheduled": false,
       "provider": "N/A",
@@ -32,7 +32,7 @@
     },
     "sermonTitle": "Guest Preacher",
     "sermonText": "Bro. Jared Styles",
-    "songOfResponse": "Come, Ye Sinners, Poor and Needy #323",
+    "songOfResponse": "Lord, I'm Coming Home #309",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
