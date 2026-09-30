@@ -1,9 +1,9 @@
 {
-  "date": "9/27/2026",
+  "date": "10/4/2026",
   "details": {
-    "openingScripture": "Psalm 57:7-11",
-    "callToWorship": "O for a Thousand Tongues to Sing #216",
-    "fellowshipSong": "We Have Heard the Joyful Sound #581",
+    "openingScripture": "Psalm 61:1-4",
+    "callToWorship": "Lead On, O King Eternal #621",
+    "fellowshipSong": "Bless that Wonderful Name #236",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -15,7 +15,7 @@
     },
     "responsiveReading": "none this week",
     "thirdSongType": "adoration",
-    "thirdSong": "What a Friend We Have in Jesus #182",
+    "thirdSong": "How Great Thou Art #010",
     "fourthSongType": "devotion",
     "fourthSong": "only one congregational hymn this week",
     "specialMusic": {
@@ -31,15 +31,16 @@
       "text": "Sermon Text"
     },
     "sermonTitle": "Guest Preacher",
-    "sermonText": "Bro. Jared Styles",
-    "songOfResponse": "Lord, I'm Coming Home #309",
-    "theLordsSupper": false,
-    "closing": "Prayer",
+    "sermonText": "Bro. Wendell Carmack",
+    "songOfResponse": "Pass Me Not, O Gentle Savior #308",
+    "theLordsSupper": true,
+    "closing": "Blest Be the Tie #387",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "The last Beech Creek Round Up for Christ of the year is Wednesday, September 30.",
-        "The Eliza Broadus State mission offering goal is $2,500."
+        "Don’t forget to fill out and turn in the Pulpit Committee questionnaire. You can drop yours in the box in the foyer.",
+        "The Eliza Broadus State mission offering goal is $2,500.",
+        "Women on Mission will meet Monday, October 12th in the Lewis Fellowship Hall. The Christmas Shoeboxes will be put together during this meeting. Sylvia Robinson and Lisa Thomas will provide the food. All women are encouraged and invited to attend."
       ],
     "fighterVerse": {
       "week": "September 20, 2026",
