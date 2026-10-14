@@ -1,9 +1,9 @@
 {
-  "date": "10/11/2026",
+  "date": "10/18/2026",
   "details": {
-    "openingScripture": "Psalm 61:5-8",
-    "callToWorship": "God Moves in a Mysterious Way #073",
-    "fellowshipSong": "Stand Up, Stand Up for Jesus #485",
+    "openingScripture": "Psalm 62:1-6",
+    "callToWorship": "The Family of God #386",
+    "fellowshipSong": "I Will Sing the Wondrous Story #537",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -15,9 +15,9 @@
     },
     "responsiveReading": "none this week",
     "thirdSongType": "adoration",
-    "thirdSong": "This Is My Father's World #043",
+    "thirdSong": "Blessed Redeemer #149",
     "fourthSongType": "devotion",
-    "fourthSong": "Rescue the Perishing #559",
+    "fourthSong": "Send a Great Revival #466",
     "specialMusic": {
       "isScheduled": false,
       "provider": "N/A",
@@ -30,17 +30,17 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Guest Preacher: Michael Cox",
-    "sermonText": "Ephesians 2:19-22 ESV",
-    "songOfResponse": "I Am Thine, O Lord #290",
+    "sermonTitle": "Guest Preacher: John Wiley Sibert",
+    "sermonText": "N/A",
+    "songOfResponse": "Without Him #300",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "Women on Mission will meet Monday, October 12 at 6:00 PM in the Lewis Fellowship Hall to put together the Christmas Shoeboxes. Sylvia Robinson and Lisa Thomas will provide the food. All women are encouraged and invited to attend.",
         "Sunday, October 18 is the last day to turn in the questionnaire for the pastoral search committee. You can drop yours in the box in the foyer.",
-        "Our church picnic is Sunday, October 25 at 5:00 PM at Mark and Anne Deaton’s garage. They will provide soup and grilled cheese sandwiches. Please bring your favorite dessert."
+        "Our church picnic is Sunday, October 25 at 5:00 PM at Mark and Anne Deaton’s garage. They will provide soup and grilled cheese sandwiches. Please bring your favorite dessert.",
+        "Thank you so much for thinking of our family and for your kindness during this difficult time. Your generosity and support have meant so much to us and have been a great comfort as we grieve the loss of our beloved husband, father and grandfather. With gratitude, Pat Williams & Family"
       ],
     "fighterVerse": {
       "week": "September 20, 2026",
