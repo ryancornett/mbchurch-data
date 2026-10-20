@@ -11,7 +11,9 @@
       "devotion": "Song of Devotion",
       "psalm": "Psalm in Meter",
       "consolation": "Song of Consolation",
-      "thanksgiving": "Song of Thanksgiving"
+      "thanksgiving": "Song of Thanksgiving",
+      "preparation": "Song of Preparation",
+      "none": "none"
     },
     "responsiveReading": "none this week",
     "thirdSongType": "adoration",
