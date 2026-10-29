@@ -1,9 +1,9 @@
 {
-  "date": "10/25/2026",
+  "date": "11/01/2026",
   "details": {
-    "openingScripture": "Psalm 62:7-12",
-    "callToWorship": "Doxology #253",
-    "fellowshipSong": "Brethren, We Have Met to Worship #379",
+    "openingScripture": "Psalm 63:1-7",
+    "callToWorship": "Send a Great Revival #466",
+    "fellowshipSong": "There's a Land that Is Fairer Than Day #515",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -16,10 +16,10 @@
       "none": "none"
     },
     "responsiveReading": "none this week",
-    "thirdSongType": "adoration",
-    "thirdSong": "Christ, Our Abiding Cornerstone",
-    "fourthSongType": "preparation",
-    "fourthSong": "Nothing but the Blood #135",
+    "thirdSongType": "preparation",
+    "thirdSong": "I'd Rather Have Jesus #550",
+    "fourthSongType": "none",
+    "fourthSong": "",
     "specialMusic": {
       "isScheduled": false,
       "provider": "N/A",
@@ -32,15 +32,15 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Guest Preacher: Eli Clapper",
+    "sermonTitle": "Guest Preacher: Andrew Dyer",
     "sermonText": "N/A",
-    "songOfResponse": "I Stand Amazed in the Presence #547",
-    "theLordsSupper": false,
-    "closing": "Prayer",
+    "songOfResponse": "Speak to My Heart #281",
+    "theLordsSupper": true,
+    "closing": "Blest Be the Tie #387",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "Our church picnic is Sunday, October 25 at 5:00 PM at Mark and Anne Deaton’s garage. They will provide soup and grilled cheese sandwiches. Please bring your favorite dessert.",
+        "Check out Heaven’s Refrain, a collection of songs recorded by Kentucky Baptist Worship, and written by Kentucky Baptists, on all major streaming platforms. Chord charts and other resources will be made freely available.",
         "Greenbriar Presbyterian Church is hosting a Women’s Fellowship meeting Saturday, November 7, beginning at 11:30 AM. Mary Lou Casada will be speaking, and Carmen Fields will provide special music. Please let Linda Baker know if you plan to attend."
       ],
     "fighterVerse": {
