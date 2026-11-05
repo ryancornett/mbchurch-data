@@ -1,9 +1,9 @@
 {
-  "date": "11/01/2026",
+  "date": "11/08/2026",
   "details": {
-    "openingScripture": "Psalm 63:1-7",
-    "callToWorship": "Send a Great Revival #466",
-    "fellowshipSong": "There's a Land that Is Fairer Than Day #515",
+    "openingScripture": "Psalm 65:1-7",
+    "callToWorship": "Crown Him with Many Crowns #161",
+    "fellowshipSong": "No, Not One #181",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -16,10 +16,10 @@
       "none": "none"
     },
     "responsiveReading": "none this week",
-    "thirdSongType": "preparation",
-    "thirdSong": "I'd Rather Have Jesus #550",
-    "fourthSongType": "none",
-    "fourthSong": "",
+    "thirdSongType": "adoration",
+    "thirdSong": "Faith Is the Victory #413",
+    "fourthSongType": "preparation",
+    "fourthSong": "Because He Lives #407",
     "specialMusic": {
       "isScheduled": false,
       "provider": "N/A",
@@ -32,16 +32,17 @@
       "title": "Sermon Title",
       "text": "Sermon Text"
     },
-    "sermonTitle": "Guest Preacher: Andrew Dyer",
+    "sermonTitle": "Guest Preacher: Wendell Carmack",
     "sermonText": "N/A",
-    "songOfResponse": "Speak to My Heart #281",
-    "theLordsSupper": true,
-    "closing": "Blest Be the Tie #387",
+    "songOfResponse": "Precious Lord, Take My Hand #456",
+    "theLordsSupper": false,
+    "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "Check out Heaven’s Refrain, a collection of songs recorded by Kentucky Baptist Worship, and written by Kentucky Baptists, on all major streaming platforms. Chord charts and other resources will be made freely available.",
-        "Greenbriar Presbyterian Church is hosting a Women’s Fellowship meeting Saturday, November 7, beginning at 11:30 AM. Mary Lou Casada will be speaking, and Carmen Fields will provide special music. Please let Linda Baker know if you plan to attend."
+        "There will be no evening service Sunday, November 8.",
+        "Check out Heaven’s Refrain, a collection of songs recorded by Kentucky Baptist Worship, and written by Kentucky Baptists, on all major streaming platforms. Chord charts and other resources are freely available.",
+        "We will hold our church Thanksgiving meal on Sunday, November 22, following the morning service. The church will provide the meat and sides, so please bring desserts."
       ],
     "fighterVerse": {
       "week": "September 20, 2026",
