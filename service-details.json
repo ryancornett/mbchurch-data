@@ -1,9 +1,9 @@
 {
-  "date": "11/08/2026",
+  "date": "11/15/2026",
   "details": {
-    "openingScripture": "Psalm 65:1-7",
-    "callToWorship": "Crown Him with Many Crowns #161",
-    "fellowshipSong": "No, Not One #181",
+    "openingScripture": "Psalm 66:1-4",
+    "callToWorship": "Doxology #253",
+    "fellowshipSong": "I Love to Tell the Story #572",
     "songTypeEnum": { 
       "exultation": "Song of Exultation",
       "adoration": "Song of Adoration",
@@ -17,9 +17,9 @@
     },
     "responsiveReading": "none this week",
     "thirdSongType": "adoration",
-    "thirdSong": "Faith Is the Victory #413",
+    "thirdSong": "Jesus Paid It All #134",
     "fourthSongType": "preparation",
-    "fourthSong": "Because He Lives #407",
+    "fourthSong": "Psalm 96 (MODERNA)",
     "specialMusic": {
       "isScheduled": false,
       "provider": "N/A",
@@ -34,15 +34,14 @@
     },
     "sermonTitle": "Guest Preacher: Wendell Carmack",
     "sermonText": "N/A",
-    "songOfResponse": "Precious Lord, Take My Hand #456",
+    "songOfResponse": "The Old Rugged Cross #141",
     "theLordsSupper": false,
     "closing": "Prayer",
     "announcements": {
       "isPopulated": true,
       "list": [
-        "There will be no evening service Sunday, November 8.",
-        "Check out Heaven’s Refrain, a collection of songs recorded by Kentucky Baptist Worship, and written by Kentucky Baptists, on all major streaming platforms. Chord charts and other resources are freely available.",
-        "We will hold our church Thanksgiving meal on Sunday, November 22, following the morning service. The church will provide the meat and sides, so please bring desserts."
+        "We will hold our church Thanksgiving meal on Sunday, November 22, following the morning service. The church will provide the meat and sides, so please bring desserts.",
+        "Our quarterly business meeting is Sunday, December 6."
       ],
     "fighterVerse": {
       "week": "September 20, 2026",
